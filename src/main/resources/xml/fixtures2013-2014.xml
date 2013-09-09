@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="UTF-8"?><fixtures>  
+  <season>2013-2014</season>  
+  <match>    
+    <day>Sun</day>    
+    <date>18/08</date>     
+    <time>13:30 </time>     
+    <competition>Premiership</competition>    
+    <venue>A</venue>    
+    <opposition>Crystal Palace</opposition>
+    <result>
+      <for>1</for>
+      <against>0</against>
+      <report source="Guardian">http://www.guardian.co.uk/football/match/2013/aug/18/crystalpalace-v-tottenham-hotspur</report>    
+    </result>
+    <goals>
+      <scorer detail="p">Soldado</scorer>
+    </goals>
+  </match>
+  <match>    
+    <day>Thu</day>    
+    <date>22/08</date>     
+    <time>17:00 </time>     
+    <competition>EL</competition>    
+    <venue>A</venue>     
+    <opposition>Dinamo Tblisi</opposition>
+    <result>
+      <for>5</for>
+      <against>0</against>      
+      <report source="Guardian">http://www.theguardian.com/football/2013/aug/22/dinamo-tbilisi-tottenham-hotspur-europa-league</report>    
+    </result>
+    <goals>
+      <scorer>Townsend</scorer>
+      <scorer>Paulinho</scorer>
+      <scorer detail="2">Soldado</scorer>
+      <scorer>Rose</scorer>
+    </goals>   
+  </match>
+  <match>    
+    <day>Sun</day>    
+    <date>25/08</date>     
+    <time>16:00 </time>     
+    <competition>Premiership</competition>    
+    <venue>H</venue>     
+    <opposition>Swansea City</opposition>
+    <result>
+      <for>1</for>
+      <against>0</against>      
+      <report source="Guardian">http://www.guardian.co.uk/football/match/2013/aug/25/tottenham-hotspur-v-swansea</report>    
+    </result>
+    <goals>      
+      <scorer detail="p">Soldado</scorer>
+    </goals>   
+  </match>
+  <match>    
+    <day>Thu</day>    
+    <date>29/08</date>     
+    <time>20:00 </time>     
+    <competition>EL</competition>    
+    <venue>H</venue>     
+    <opposition>Dinamo Tblisi</opposition>
+    <result>
+      <for>3</for>
+      <against>0</against>      
+      <report source="Guardian">http://www.theguardian.com/football/2013/aug/29/tottenham-dinamo-tbilisi-europa-league</report>    
+    </result>
+    <goals>     
+      <scorer detail="2">Defoe</scorer>
+      <scorer>Holtby</scorer>
+    </goals>   
+  </match>
+  <match>    
+    <day>Sun</day>    
+    <date>1/09</date>     
+    <time>16:00 </time>     
+    <competition>Premiership</competition>    
+    <venue>A</venue>    
+    <opposition>Arsenal</opposition>
+    <result>
+      <for>0</for>
+      <against>1</against>      
+      <report source="Guardian">http://www.guardian.co.uk/football/match/2013/sep/01/arsenal-v-tottenham-hotspur</report>    
+    </result>
+    <goals></goals>   
+  </match>
+  <match>    
+    <day>Sat</day>    
+    <date>14/09</date>     
+    <time>15:00 </time>     
+    <competition>Premiership</competition>    
+    <venue>H</venue>     
+    <opposition>Norwich City</opposition>
+    <result>
+      <for></for>
+      <against></against>      
+      <report source="Guardian">http://www.guardian.co.uk/football/match/2013/sep/14/tottenham-hotspur-v-norwichcity</report>    
+    </result>
+    <goals></goals>   
+  </match>
+  <match>    
+    <day>Thu</day>    
+    <date>19/09</date>     
+    <time>20:05</time>     
+    <competition>EL</competition>    
+    <venue>H</venue>    
+    <opposition>Tromso</opposition>
+    <result>
+      <for></for>
+      <against></against>      
+      <report source="Guardian">http://www.theguardian.com/football/2013/sep/19/tottenham-tromso-europa-league</report>    
+    </result>
+    <goals></goals>   
+  </match>
+  <match>    
+    <day>Sun</day>    
+    <date>22/09</date>     
+    <time>16:00 </time>     
+    <competition>Premiership</competition>    
+    <venue>A</venue>    
+    <opposition>Cardiff City</opposition>
+    <result>
+      <for></for>
+      <against></against>      
+      <report source="Guardian">http://www.guardian.co.uk/football/match/2013/sep/22/cardiffcity-v-tottenham-hotspur</report>    
+    </result>
+    <goals></goals>   
+  </match>
+  <match>    
+    <day>Tue</day>    
+    <date>24/09</date>     
+    <time>19:45</time>     
+    <competition>COLC</competition>    
+    <venue>A</venue>    
+    <opposition>Aston Villa</opposition>
+    <result>
+      <for></for>
+      <against></against>      
+      <report source="Guardian">http://www.guardian.co.uk/football/match/2013/sep/24/astonvilla-v-tottenham-hotspur</report>    
+    </result>
+    <goals></goals>   
+  </match>
+  <match>    
+    <day>Sat</day>    
+    <date>28/09</date>     
+    <time>12:45 </time>     
+    <competition>Premiership</competition>    
+    <venue>H</venue>     
+    <opposition>Chelsea</opposition>
+    <result>
+      <for></for>
+      <against></against>      
+      <report source="Guardian">http://www.guardian.co.uk/football/match/2013/sep/28/tottenham-hotspur-v-chelsea</report>    
+    </result>
+    <goals></goals>   
+  </match>
+  <match>    
+    <day>Thu</day>    
+    <date>3/10</date>     
+    <time>17:00</time>     
+    <competition>EL</competition>    
+    <venue>A</venue>    
+    <opposition>Anzhi Makhachkala</opposition>
+    <result>
+      <for></for>
+      <against></against>      
+      <report source="Guardian"></report>    
+    </result>
+    <goals></goals>   
+  </match>
+  <match>    
+    <day>Sun</day>    
+    <date>6/10</date>     
+    <time>16:00 </time>     
+    <competition>Premiership</competition>    
+    <venue>H</venue>     
+    <opposition>West Ham United</opposition>
+    <result>
+      <for></for>
+      <against></against>      
+      <report source="Guardian">http://www.guardian.co.uk/football/match/2013/oct/06/tottenham-hotspur-v-westhamunited</report>    
+    </result>
+    <goals></goals>   
+  </match>
+  <match>    
+    <day>Sun</day>    
+    <date>20/10</date>     
+    <time>16:00 </time>     
+    <competition>Premiership</competition>    
+    <venue>A</venue>    
+    <opposition>Aston Villa</opposition>
+    <result>
+      <for></for>
+      <against></against>      
+      <report source="Guardian">http://www.guardian.co.uk/football/match/2013/oct/20/aston-villa-v-tottenham-hotspur</report>    
+    </result>
+    <goals></goals>   
+  </match>
+  <match>    
+    <day>Thu</day>    
+    <date>24/10</date>     
+    <time>20:05</time>     
+    <competition>EL</competition>    
+    <venue>H</venue>    
+    <opposition>FC Sheriff</opposition>
+    <result>
+      <for></for>
+      <against></against>      
+      <report source="Guardian"></report>    
+    </result>
+    <goals></goals>   
+  </match>
+  <match>    
+    <day>Sun</day>    
+    <date>27/10</date>     
+    <time>16:00 </time>     
+    <competition>Premiership</competition>    
+    <venue>H</venue>     
+    <opposition>Hull City</opposition>
+    <result>
+      <for></for>
+      <against></against>      
+      <report source="Guardian">http://www.guardian.co.uk/football/match/2013/oct/27/tottenham-hotspur-v-hullcity</report>    
+    </result>
+    <goals></goals>   
+  </match>
+  <match>    
+    <day>Sun</day>    
+    <date>3/11</date>     
+    <time>13:30 </time>
+    <competition>Premiership</competition>    
+    <venue>A</venue>    
+    <opposition>Everton</opposition>
+    <result>
+      <for></for>
+      <against></against>      
+      <report source="Guardian">http://www.guardian.co.uk/football/match/2013/nov/03/everton-v-tottenham-hotspur</report>    
+    </result>
+    <goals></goals>        
+  </match>
+  <match>    
+    <day>Thu</day>    
+    <date>7/11</date>     
+    <time>17:00</time>     
+    <competition>EL</competition>    
+    <venue>A</venue>    
+    <opposition>FC Sheriff</opposition>
+    <result>
+      <for></for>
+      <against></against>      
+      <report source="Guardian"></report>    
+    </result>
+    <goals></goals>   
+  </match>
+  <match>    
+    <day>Sun</day>    
+    <date>10/11</date>     
+    <time>12:00 </time>
+    <competition>Premiership</competition>    
+    <venue>H</venue>     
+    <opposition>Newcastle United</opposition>
+    <result>
+      <for></for>
+      <against></against>      
+      <report source="Guardian">http://www.guardian.co.uk/football/match/2013/nov/10/tottenham-hotspur-v-newcastleunited</report>    
+    </result>
+    <goals></goals>        
+  </match>
+  <match>    
+    <day>Sun</day>    
+    <date>24/11</date>     
+    <time>13:30 </time>
+    <competition>Premiership</competition>    
+    <venue>A</venue>    
+    <opposition>Manchester City</opposition>
+    <result>
+      <for></for>
+      <against></against>      
+      <report source="Guardian">http://www.guardian.co.uk/football/match/2013/nov/23/manchestercity-v-tottenham-hotspur</report>    
+    </result>
+    <goals></goals>        
+  </match>
+  <match>    
+    <day>Thu</day>    
+    <date>28/09</date>     
+    <time>17:00</time>     
+    <competition>EL</competition>    
+    <venue>A</venue>    
+    <opposition>Tromso</opposition>
+    <result>
+      <for></for>
+      <against></against>      
+      <report source="Guardian">http://www.theguardian.com/football/2013/nov/28/tromso-tottenham-europa-league</report>    
+    </result>
+    <goals></goals>   
+  </match>
+  <match>    
+    <day>Sun</day>    
+    <date>1/12</date>     
+    <time>12:00</time>
+    <competition>Premiership</competition>    
+    <venue>H</venue>     
+    <opposition>Manchester United</opposition>
+    <result>
+      <for></for>
+      <against></against>      
+      <report source="Guardian">http://www.guardian.co.uk/football/match/2013/nov/30/tottenham-hotspur-v-manchester-united</report>    
+    </result>
+    <goals></goals>        
+  </match>
+  <match>    
+    <day>Wed</day>    
+    <date>4/12</date>     
+    <time>20:00 </time>
+    <competition>Premiership</competition>    
+    <venue>A</venue>    
+    <opposition>Fulham</opposition>
+    <result>
+      <for></for>
+      <against></against>      
+      <report source="Guardian">http://www.guardian.co.uk/football/match/2013/dec/04/fulham-v-tottenham-hotspur</report>    
+    </result>
+    <goals></goals>        
+  </match>
+  <match>    
+    <day>Sat</day>    
+    <date>7/12</date>     
+    <time>15:00 </time>
+    <competition>Premiership</competition>    
+    <venue>A</venue>    
+    <opposition>Sunderland</opposition>
+    <result>
+      <for></for>
+      <against></against>      
+      <report source="Guardian">http://www.guardian.co.uk/football/match/2013/dec/07/sunderland-v-tottenham-hotspur</report>    
+    </result>
+    <goals></goals>        
+  </match>
+  <match>    
+    <day>Thu</day>    
+    <date>12/12</date>     
+    <time>20:05</time>     
+    <competition>EL</competition>    
+    <venue>H</venue>    
+    <opposition>Anzhi Makhachkala</opposition>
+    <result>
+      <for></for>
+      <against></against>      
+      <report source="Guardian"></report>    
+    </result>
+    <goals></goals>   
+  </match>
+  <match>    
+    <day>Sun</day>    
+    <date>15/12</date>     
+    <time>15:00 </time>
+    <competition>Premiership</competition>    
+    <venue>H</venue>     
+    <opposition>Liverpool</opposition>
+    <result>
+      <for></for>
+      <against></against>      
+      <report source="Guardian">http://www.guardian.co.uk/football/match/2013/dec/15/tottenham-hotspur-v-liverpool</report>    
+    </result>
+    <goals></goals>        
+  </match>
+  <match>    
+    <day>Sat</day>    
+    <date>21/12</date>     
+    <time>15:00 </time>
+    <competition>Premiership</competition>    
+    <venue>A</venue>    
+    <opposition>Southampton</opposition>
+    <result>
+      <for></for>
+      <against></against>      
+      <report source="Guardian">http://www.guardian.co.uk/football/match/2013/dec/21/southampton-v-tottenham-hotspur</report>    
+    </result>
+    <goals></goals>        
+  </match>
+  <match>    
+    <day>Thu</day>    
+    <date>26/12</date>     
+    <time>15:00 </time>
+    <competition>Premiership</competition>    
+    <venue>H</venue>     
+    <opposition>West Bromwich Albion</opposition>
+    <result>
+      <for></for>
+      <against></against>      
+      <report source="Guardian">http://www.guardian.co.uk/football/match/2013/dec/26/tottenham-hotspur-v-westbrom</report>    
+    </result>
+    <goals></goals>        
+  </match>
+  <match>    
+    <day>Sat</day>    
+    <date>28/12</date>     
+    <time>15:00 </time>
+    <competition>Premiership</competition>    
+    <venue>H</venue>     
+    <opposition>Stoke City</opposition>
+    <result>
+      <for></for>
+      <against></against>      
+      <report source="Guardian">http://www.guardian.co.uk/football/match/2013/dec/28/tottenham-hotspur-v-stokecity</report>    
+    </result>
+    <goals></goals>        
+  </match>
+  <match>    
+    <day>Wed</day>    
+    <date>1/01</date>     
+    <time>15:00 </time>
+    <competition>Premiership</competition>    
+    <venue>A</venue>    
+    <opposition>Manchester United</opposition>
+    <result>
+      <for></for>
+      <against></against>      
+      <report source="Guardian">http://www.guardian.co.uk/football/match/2014/jan/01/manchester-united-v-tottenham-hotspur</report>    
+    </result>
+    <goals></goals>        
+  </match>
+  <match>    
+    <day>Sat</day>    
+    <date>11/01</date>     
+    <time>15:00 </time>
+    <competition>Premiership</competition>    
+    <venue>H</venue>     
+    <opposition>Crystal Palace</opposition>
+    <result>
+      <for></for>
+      <against></against>      
+      <report source="Guardian">http://www.guardian.co.uk/football/match/2014/jan/11/tottenham-hotspur-v-crystalpalace</report>    
+    </result>
+    <goals></goals>        
+  </match>
+  <match>    
+    <day>Sat</day>    
+    <date>18/01</date>     
+    <time>15:00 </time>
+    <competition>Premiership</competition>    
+    <venue>A</venue>    
+    <opposition>Swansea City</opposition>
+    <result>
+      <for></for>
+      <against></against>      
+      <report source="Guardian">http://www.guardian.co.uk/football/match/2014/jan/18/swansea-v-tottenham-hotspur</report>    
+    </result>
+    <goals></goals>        
+  </match>
+  <match>    
+    <day>Wed</day>    
+    <date>29/01</date>     
+    <time>19:45 </time>
+    <competition>Premiership</competition>    
+    <venue>H</venue>     
+    <opposition>Manchester City</opposition>
+    <result>
+      <for></for>
+      <against></against>      
+      <report source="Guardian">http://www.guardian.co.uk/football/match/2014/jan/29/tottenham-hotspur-v-manchestercity</report>    
+    </result>
+    <goals></goals>        
+  </match>
+  <match>    
+    <day>Sat</day>    
+    <date>1/02</date>     
+    <time>15:00 </time>
+    <competition>Premiership</competition>    
+    <venue>A</venue>    
+    <opposition>Hull City</opposition>
+    <result>
+      <for></for>
+      <against></against>      
+      <report source="Guardian">http://www.guardian.co.uk/football/match/2014/feb/01/hullcity-v-tottenham-hotspur</report>    
+    </result>
+    <goals></goals>        
+  </match>
+  <match>    
+    <day>Sat</day>    
+    <date>8/02</date>     
+    <time>15:00 </time>
+    <competition>Premiership</competition>    
+    <venue>H</venue>     
+    <opposition>Everton</opposition>
+    <result>
+      <for></for>
+      <against></against>      
+      <report source="Guardian">http://www.guardian.co.uk/football/match/2014/feb/08/tottenham-hotspur-v-everton</report>    
+    </result>
+    <goals></goals>        
+  </match>
+  <match>    
+    <day>Wed</day>    
+    <date>12/02</date>     
+    <time>19:45 </time>
+    <competition>Premiership</competition>    
+    <venue>A</venue>    
+    <opposition>Newcastle United</opposition>
+    <result>
+      <for></for>
+      <against></against>      
+      <report source="Guardian">http://www.guardian.co.uk/football/match/2014/feb/12/newcastleunited-v-tottenham-hotspur</report>    
+    </result>
+    <goals></goals>        
+  </match>
+  <match>    
+    <day>Sat</day>    
+    <date>22/02</date>     
+    <time>15:00 </time>
+    <competition>Premiership</competition>    
+    <venue>A</venue>    
+    <opposition>Norwich City</opposition>
+    <result>
+      <for></for>
+      <against></against>      
+      <report source="Guardian">http://www.guardian.co.uk/football/match/2014/feb/22/norwichcity-v-tottenham-hotspur</report>    
+    </result>
+    <goals></goals>        
+  </match>
+  <match>    
+    <day>Sat</day>    
+    <date>1/03</date>     
+    <time>15:00 </time>
+    <competition>Premiership</competition>    
+    <venue>H</venue>     
+    <opposition>Cardiff City</opposition>
+    <result>
+      <for></for>
+      <against></against>      
+      <report source="Guardian">http://www.guardian.co.uk/football/match/2014/mar/01/tottenham-hotspur-v-cardiffcity</report>    
+    </result>
+    <goals></goals>        
+  </match>
+  <match>    
+    <day>Sat</day>    
+    <date>8/03</date>     
+    <time>15:00 </time>
+    <competition>Premiership</competition>    
+    <venue>A</venue>    
+    <opposition>Chelsea</opposition>
+    <result>
+      <for></for>
+      <against></against>      
+      <report source="Guardian">http://www.guardian.co.uk/football/match/2014/mar/08/chelsea-v-tottenham-hotspur</report>    
+    </result>
+    <goals></goals>        
+  </match>
+  <match>    
+    <day>Sat</day>    
+    <date>15/03</date>     
+    <time>15:00 </time>
+    <competition>Premiership</competition>    
+    <venue>H</venue>     
+    <opposition>Arsenal</opposition>
+    <result>
+      <for></for>
+      <against></against>      
+      <report source="Guardian">http://www.guardian.co.uk/football/match/2014/mar/15/tottenham-hotspur-v-arsenal</report>    
+    </result>
+    <goals></goals>        
+  </match>
+  <match>    
+    <day>Sat</day>    
+    <date>22/03</date>     
+    <time>15:00 </time>
+    <competition>Premiership</competition>    
+    <venue>H</venue>     
+    <opposition>Southampton</opposition>
+    <result>
+      <for></for>
+      <against></against>      
+      <report source="Guardian">http://www.guardian.co.uk/football/match/2014/mar/22/tottenham-hotspur-v-southampton</report>    
+    </result>
+    <goals></goals>        
+  </match>
+  <match>    
+    <day>Sat</day>    
+    <date>29/03</date>     
+    <time>15:00 </time>
+    <competition>Premiership</competition>    
+    <venue>A</venue>    
+    <opposition>Liverpool</opposition>
+    <result>
+      <for></for>
+      <against></against>      
+      <report source="Guardian">http://www.guardian.co.uk/football/match/2014/mar/29/liverpool-v-tottenham-hotspur</report>    
+    </result>
+    <goals></goals>        
+  </match>
+  <match>    
+    <day>Sat</day>    
+    <date>5/04</date>     
+    <time>15:00 </time>
+    <competition>Premiership</competition>    
+    <venue>H</venue>     
+    <opposition>Sunderland</opposition>
+    <result>
+      <for></for>
+      <against></against>      
+      <report source="Guardian">http://www.guardian.co.uk/football/match/2014/apr/05/tottenham-hotspur-v-sunderland</report>    
+    </result>
+    <goals></goals>        
+  </match>
+  <match>    
+    <day>Sat</day>    
+    <date>12/04</date>     
+    <time>15:00 </time>
+    <competition>Premiership</competition>    
+    <venue>A</venue>    
+    <opposition>West Bromwich Albion</opposition>
+    <result>
+      <for></for>
+      <against></against>      
+      <report source="Guardian">http://www.guardian.co.uk/football/match/2014/apr/12/westbrom-v-tottenham-hotspur</report>    
+    </result>
+    <goals></goals>        
+  </match>
+  <match>    
+    <day>Sat</day>    
+    <date>19/04</date>     
+    <time>15:00 </time>
+    <competition>Premiership</competition>    
+    <venue>H</venue>     
+    <opposition>Fulham</opposition>
+    <result>
+      <for></for>
+      <against></against>      
+      <report source="Guardian">http://www.guardian.co.uk/football/match/2014/apr/19/tottenham-hotspur-v-fulham</report>    
+    </result>
+    <goals></goals>        
+  </match>
+  <match>    
+    <day>Sat</day>    
+    <date>26/04</date>     
+    <time>15:00 </time>
+    <competition>Premiership</competition>    
+    <venue>A</venue>    
+    <opposition>Stoke City</opposition>
+    <result>
+      <for></for>
+      <against></against>      
+      <report source="Guardian">http://www.guardian.co.uk/football/match/2014/apr/26/stokecity-v-tottenham-hotspur</report>    
+    </result>
+    <goals></goals>        
+  </match>
+  <match>    
+    <day>Sat</day>    
+    <date>3/05</date>     
+    <time>15:00 </time>
+    <competition>Premiership</competition>    
+    <venue>A</venue>    
+    <opposition>West Ham United</opposition>
+    <result>
+      <for></for>
+      <against></against>      
+      <report source="Guardian">http://www.guardian.co.uk/football/match/2014/may/03/westhamunited-v-tottenham-hotspur</report>    
+    </result>
+    <goals></goals>        
+  </match>
+  <match>    
+    <day>Sun</day>    
+    <date>11/05</date>     
+    <time>15:00 </time>
+    <competition>Premiership</competition>    
+    <venue>H</venue>     
+    <opposition>Aston Villa</opposition>
+    <result>
+      <for></for>
+      <against></against>      
+      <report source="Guardian">http://www.guardian.co.uk/football/match/2014/may/11/tottenham-hotspur-v-aston-villa</report>    
+    </result>
+    <goals></goals>        
+  </match>
+</fixtures>
