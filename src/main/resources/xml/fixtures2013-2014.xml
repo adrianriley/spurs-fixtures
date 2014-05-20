@@ -864,10 +864,14 @@
     <venue>H</venue>     
     <opposition>Aston Villa</opposition>
     <result>
-      <for></for>
-      <against></against>      
-      <report source="Guardian">http://www.guardian.co.uk/football/match/2014/may/11/tottenham-hotspur-v-aston-villa</report>    
+      <for>3</for>
+      <against>0</against>      
+      <report source="Guardian">http://www.theguardian.com/football/2014/may/11/tottenham-hotspur-aston-villa-premier-league-match-report</report>    
     </result>
-    <goals></goals>        
+    <goals>
+      <scorer>Paulinho</scorer>
+      <scorer detail="og">Baker</scorer>
+      <scorer detail="p">Adebayor</scorer>
+    </goals>        
   </match>
 </fixtures>
