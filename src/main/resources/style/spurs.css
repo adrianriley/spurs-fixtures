@@ -1,0 +1,73 @@
+body {
+    margin: 3;
+    top-margin: 0;
+    background-color: white;
+    font-family: Verdana, "Liberation Sans", sans-serif;
+    font-size: 13px;
+}
+
+table {
+    margin: 0;
+}
+
+th {
+    background-color: #003399;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 15px;
+}
+
+th.ph {
+    background-color: white;
+    text-align: center;
+    color: #003399;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 36px;
+}
+
+td.al {
+    text-align: left;
+    color: #003399;
+    background-color: #FFCC00;
+    font-size: 12px;
+}
+
+td.opp {
+    text-align: left;
+    color: #003399;
+    background-color: #FFCC00;
+    font-size: 12px;
+    white-space: nowrap;
+}
+
+td.ac {
+    text-align: center;
+    color: #003399;
+    background-color: #FFCC00;
+    font-size: 12px;
+}
+
+caption {
+    text-align: center;
+    color: black;
+    background-color: white;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 15px;
+}
+
+a.report:link {
+    color: #003399; 
+}
+
+a.report:visited {
+    color: #003399; 
+}
+
+.comment {
+    visibility: hidden;
+}
+

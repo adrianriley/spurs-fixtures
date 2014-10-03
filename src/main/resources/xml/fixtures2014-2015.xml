@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fixtures>
+    <season>2014-2015</season>  
+    <match>
+        <competition>Premiership</competition>
+        <venue>A</venue>
+        <opposition>West Ham United</opposition>
+        <day>Sat</day>
+        <date>16 Aug</date>
+        <time>15:00</time>
+        <result>
+            <for>1</for>
+            <against>0</against>
+            <report source="Guardian">http://www.theguardian.com/football/2014/aug/16/west-ham-united-tottenham-hotspur-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer>Dier</scorer>
+        </goals>
+    </match>
+    <match>
+        <competition>EL</competition>
+        <venue>A</venue>
+        <opposition>AEL Limassol</opposition>
+        <day>Thu</day>
+        <date>21 Aug</date>
+        <time>17:00</time>
+        <result>
+            <for>2</for>
+            <against>1</against>
+            <report source="Guardian">http://www.theguardian.com/football/2014/aug/21/limassol-tottenham-europa-league-match-report</report>
+        </result>
+        <goals>
+            <scorer>Soldado</scorer>
+            <scorer>Kane</scorer>
+        </goals>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>H</venue>
+        <opposition>Queens Park Rangers</opposition>
+        <day>Sun</day>
+        <date>24 Aug</date>
+        <time>13:30</time>
+        <result>
+            <for>4</for>
+            <against>0</against>
+            <report source="Guardian">http://www.theguardian.com/football/2014/aug/24/tottenham-qpr-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer detail="2">Chadli</scorer>
+            <scorer>Dier</scorer>
+            <scorer>Adebayor</scorer>
+        </goals>
+    </match>
+    <match>
+        <competition>EL</competition>
+        <venue>H</venue>
+        <opposition>AEL Limassol</opposition>
+        <day>Thu</day>
+        <date>28 Aug</date>
+        <time>20:00</time>
+        <result>
+            <for>3</for>
+            <against>0</against>
+            <report source="Guardian">http://www.theguardian.com/football/2014/aug/28/tottenham-hotspur-limassol-europa-league-match-report</report>
+        </result>
+        <goals>
+            <scorer>Kane</scorer>
+            <scorer>Paulinho</scorer>
+            <scorer detail="p">Townsend</scorer>
+        </goals>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>H</venue>
+        <opposition>Liverpool</opposition>
+        <day>Sun</day>
+        <date>31 Aug</date>
+        <time>13:30</time>
+        <result>
+            <for>0</for>
+            <against>3</against>
+            <report source="Guardian">http://www.theguardian.com/football/2014/aug/31/liverpool-tottenham-match-report</report>
+        </result>
+        <goals></goals>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>A</venue>
+        <opposition>Sunderland</opposition>
+        <day>Sat</day>
+        <date>13 Sep</date>
+        <time>15:00</time>
+        <result>
+            <for>2</for>
+            <against>2</against>
+            <report source="Guardian">http://www.theguardian.com/football/2014/sep/13/sunderland-tottenham-hotspur-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer>Chadli</scorer>
+            <scorer>Eriksen</scorer>
+        </goals>
+    </match>
+    <match>
+        <competition>EL</competition>
+        <venue>A</venue>
+        <opposition>Partizan Belgrade</opposition>
+        <day>Thu</day>
+        <date>18 Sep</date>
+        <time>17:00</time>
+        <result>
+            <for>0</for>
+            <against>0</against>
+            <report source="Guardian">http://www.theguardian.com/football/2014/sep/18/partizan-belgrade-tottenham-hotspur-europa-league</report>
+        </result>
+        <goals></goals>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>H</venue>
+        <opposition>West Bromwich Albion</opposition>
+        <day>Sun</day>
+        <date>21 Sep</date>
+        <time>13:30</time>
+        <result>
+            <for>0</for>
+            <against>1</against>
+            <report source="Guardian">http://www.theguardian.com/football/2014/sep/21/tottenham-hotspur-west-bromwich-albion-premier-league-match-report</report>
+        </result>
+        <goals></goals>
+    </match>
+    <match>
+        <competition>COLC</competition>
+        <venue>H</venue>
+        <opposition>Nottingham Forest</opposition>
+        <day>Wed</day>
+        <date>24 Sep</date>
+        <time>19:45</time>
+        <result>
+            <for>3</for>
+            <against>1</against>
+            <report source="Guardian">http://www.theguardian.com/football/2014/sep/24/tottenham-hotspur-nottingham-forest-capital-one-cup-match-report</report>
+        </result>
+        <goals>
+            <scorer>Mason</scorer>
+            <scorer>Soldado</scorer>
+            <scorer>Kane</scorer>
+        </goals>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>A</venue>
+        <opposition>Arsenal</opposition>
+        <day>Sat</day>
+        <date>27 Sep</date>
+        <time>17:30</time>
+        <result>
+            <for>1</for>
+            <against>1</against>
+            <report source="Guardian">http://www.theguardian.com/football/2014/sep/27/arsenal-tottenham-hotspur-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer>Chadli</scorer>
+        </goals>
+    </match>
+    <match>
+        <competition>EL</competition>
+        <venue>H</venue>
+        <opposition>Besiktas</opposition>
+        <day>Thu</day>
+        <date>2 Oct</date>
+        <time>20:05</time>
+        <result>
+            <for>1</for>
+            <against>1</against>
+            <report source="Guardian">http://www.theguardian.com/football/2014/oct/02/tottenham-besiktas-europa-league-group-c-match-report</report>
+        </result>
+        <goals>
+            <scorer>Kane</scorer>
+        </goals>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>H</venue>
+        <opposition>Southampton</opposition>
+        <day>Sun</day>
+        <date>5 Oct</date>
+        <time>14:05</time>
+        <result></result>
+        <goals></goals>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>A</venue>
+        <opposition>Manchester City</opposition>
+        <day>Sat</day>
+        <date>18 Oct</date>
+        <time>12:45</time>
+        <result></result>
+        <goals></goals>
+    </match>
+    <match>
+        <competition>EL</competition>
+        <venue>H</venue>
+        <opposition>Asteras Tripolis</opposition>
+        <day>Thu</day>
+        <date>23 Oct</date>
+        <time>20:05</time>
+        <result>
+        </result>
+        <goals>
+        </goals>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>H</venue>
+        <opposition>Newcastle United</opposition>
+        <day>Sun</day>
+        <date>26 Oct</date>
+        <time>13:30</time>
+        <result></result>
+        <goals></goals>
+    </match>
+    <match>
+        <competition>COLC</competition>
+        <venue>H</venue>
+        <opposition>Brighton and Hove Albion</opposition>
+        <day>Wed</day>
+        <date>29 Oct</date>
+        <time>19:45</time>
+        <result>
+        </result>
+        <goals>
+        </goals>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>A</venue>
+        <opposition>Aston Villa</opposition>
+        <day>Sun</day>
+        <date>2 Nov</date>
+        <time>16:00</time>
+        <result></result>
+        <goals></goals>
+    </match>
+    <match>
+        <competition>EL</competition>
+        <venue>A</venue>
+        <opposition>Asteras Tripolis</opposition>
+        <day>Thu</day>
+        <date>6 Nov</date>
+        <time>18:00</time>
+        <result>
+        </result>
+        <goals>
+        </goals>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>H</venue>
+        <opposition>Stoke City</opposition>
+        <day>Sun</day>
+        <date>9 Nov</date>
+        <time>13:30</time>
+        <result></result>
+        <goals></goals>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>A</venue>
+        <opposition>Hull City</opposition>
+        <day>Sun</day>
+        <date>23 Nov</date>
+        <time>16:00</time>
+        <result></result>
+        <goals></goals>
+    </match>
+    <match>
+        <competition>EL</competition>
+        <venue>H</venue>
+        <opposition>Partizan Belgrade</opposition>
+        <day>Thu</day>
+        <date>27 Nov</date>
+        <time>20:05</time>
+        <result>
+        </result>
+        <goals>
+        </goals>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>H</venue>
+        <opposition>Everton</opposition>
+        <day>Sun</day>
+        <date>30 Nov</date>
+        <time>16:00</time>
+        <result></result>
+        <goals></goals>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>A</venue>
+        <opposition>Chelsea</opposition>
+        <day>Wed</day>
+        <date>3 Dec</date>
+        <time>19:45</time>
+        <result></result>
+        <goals></goals>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>H</venue>
+        <opposition>Crystal Palace</opposition>
+        <day>Sat</day>
+        <date>6 Dec</date>
+        <time>15:00</time>
+        <result></result>
+        <goals></goals>
+    </match>
+    <match>
+        <competition>EL</competition>
+        <venue>A</venue>
+        <opposition>Besiktas</opposition>
+        <day>Thu</day>
+        <date>11 Dec</date>
+        <time>18:00</time>
+        <result>
+        </result>
+        <goals>
+        </goals>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>A</venue>
+        <opposition>Swansea City</opposition>
+        <day>Sat</day>
+        <date>13 Dec</date>
+        <time>15:00</time>
+        <result></result>
+        <goals></goals>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>H</venue>
+        <opposition>Burnley</opposition>
+        <day>Sat</day>
+        <date>20 Dec</date>
+        <time>15:00</time>
+        <result></result>
+        <goals></goals>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>A</venue>
+        <opposition>Leicester City</opposition>
+        <day>Fri</day>
+        <date>26 Dec</date>
+        <time>15:00</time>
+        <result></result>
+        <goals></goals>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>H</venue>
+        <opposition>Manchester United</opposition>
+        <day>Sun</day>
+        <date>28 Dec</date>
+        <time>15:00</time>
+        <result></result>
+        <goals></goals>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>H</venue>
+        <opposition>Chelsea</opposition>
+        <day>Thu</day>
+        <date>1 Jan</date>
+        <time>15:00</time>
+        <result></result>
+        <goals></goals>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>A</venue>
+        <opposition>Crystal Palace</opposition>
+        <day>Sat</day>
+        <date>10 Jan</date>
+        <time>15:00</time>
+        <result></result>
+        <goals></goals>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>H</venue>
+        <opposition>Sunderland</opposition>
+        <day>Sat</day>
+        <date>17 Jan</date>
+        <time>15:00</time>
+        <result></result>
+        <goals></goals>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>A</venue>
+        <opposition>West Bromwich Albion</opposition>
+        <day>Sat</day>
+        <date>31 Jan</date>
+        <time>15:00</time>
+        <result></result>
+        <goals></goals>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>H</venue>
+        <opposition>Arsenal</opposition>
+        <day>Sat</day>
+        <date>7 Feb</date>
+        <time>15:00</time>
+        <result></result>
+        <goals></goals>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>A</venue>
+        <opposition>Liverpool</opposition>
+        <day>Tue</day>
+        <date>10 Feb</date>
+        <time>20:00</time>
+        <result></result>
+        <goals></goals>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>H</venue>
+        <opposition>West Ham United</opposition>
+        <day>Sat</day>
+        <date>21 Feb</date>
+        <time>15:00</time>
+        <result></result>
+        <goals></goals>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>A</venue>
+        <opposition>Queens Park Rangers</opposition>
+        <day>Sat</day>
+        <date>28 Feb</date>
+        <time>15:00</time>
+        <result></result>
+        <goals></goals>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>H</venue>
+        <opposition>Swansea City</opposition>
+        <day>Wed</day>
+        <date>4 Mar</date>
+        <time>19:45</time>
+        <result></result>
+        <goals></goals>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>A</venue>
+        <opposition>Manchester United</opposition>
+        <day>Sat</day>
+        <date>14 Mar</date>
+        <time>15:00</time>
+        <result></result>
+        <goals></goals>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>H</venue>
+        <opposition>Leicester City</opposition>
+        <day>Sat</day>
+        <date>21 Mar</date>
+        <time>15:00</time>
+        <result></result>
+        <goals></goals>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>A</venue>
+        <opposition>Burnley</opposition>
+        <day>Sat</day>
+        <date>4 Apr</date>
+        <time>15:00</time>
+        <result></result>
+        <goals></goals>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>H</venue>
+        <opposition>Aston Villa</opposition>
+        <day>Sat</day>
+        <date>11 Apr</date>
+        <time>15:00</time>
+        <result></result>
+        <goals></goals>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>A</venue>
+        <opposition>Newcastle United</opposition>
+        <day>Sat</day>
+        <date>18 Apr</date>
+        <time>15:00</time>
+        <result></result>
+        <goals></goals>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>A</venue>
+        <opposition>Southampton</opposition>
+        <day>Sat</day>
+        <date>25 Apr</date>
+        <time>15:00</time>
+        <result></result>
+        <goals></goals>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>H</venue>
+        <opposition>Manchester City</opposition>
+        <day>Sat</day>
+        <date>2 May</date>
+        <time>15:00</time>
+        <result></result>
+        <goals></goals>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>A</venue>
+        <opposition>Stoke City</opposition>
+        <day>Sat</day>
+        <date>9 May</date>
+        <time>15:00</time>
+        <result></result>
+        <goals></goals>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>H</venue>
+        <opposition>Hull City</opposition>
+        <day>Sat</day>
+        <date>16 May</date>
+        <time>15:00</time>
+        <result></result>
+        <goals></goals>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>A</venue>
+        <opposition>Everton</opposition>
+        <day>Sun</day>
+        <date>24 May</date>
+        <time>15:00</time>
+        <result></result>
+        <goals></goals>
+    </match>
+</fixtures>
