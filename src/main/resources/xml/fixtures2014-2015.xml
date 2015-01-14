@@ -186,8 +186,14 @@
         <day>Sun</day>
         <date>5 Oct</date>
         <time>14:05</time>
-        <result></result>
-        <goals></goals>
+        <result>
+            <for>1</for>
+            <against>0</against>
+            <report source="Guardian">http://www.theguardian.com/football/2014/oct/05/tottenham-hotspur-southampton-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer>Eriksen</scorer>
+        </goals>
     </match>
     <match>
         <competition>Premiership</competition>
@@ -196,8 +202,14 @@
         <day>Sat</day>
         <date>18 Oct</date>
         <time>12:45</time>
-        <result></result>
-        <goals></goals>
+        <result>
+            <for>1</for>
+            <against>4</against>
+            <report source="Guardian">http://www.theguardian.com/football/2014/oct/18/manchester-city-tottenham-hotspur-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer>Eriksen</scorer>
+        </goals>
     </match>
     <match>
         <competition>EL</competition>
@@ -207,8 +219,13 @@
         <date>23 Oct</date>
         <time>20:05</time>
         <result>
+            <for>5</for>
+            <against>1</against>
+            <report source="Guardian">http://www.theguardian.com/football/2014/oct/23/tottenham-asteras-tripoli-europa-league-match-report</report>
         </result>
         <goals>
+            <scorer detail="3">Kane</scorer>
+            <scorer detail="2">Lamela</scorer>
         </goals>
     </match>
     <match>
@@ -218,8 +235,14 @@
         <day>Sun</day>
         <date>26 Oct</date>
         <time>13:30</time>
-        <result></result>
-        <goals></goals>
+        <result>
+            <for>1</for>
+            <against>2</against>
+            <report source="Guardian">http://www.theguardian.com/football/2014/oct/26/tottenham-hotspur-newcastle-united-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer>Adebayor</scorer>
+        </goals>
     </match>
     <match>
         <competition>COLC</competition>
@@ -229,8 +252,13 @@
         <date>29 Oct</date>
         <time>19:45</time>
         <result>
+            <for>2</for>
+            <against>0</against>
+            <report source="Guardian">http://www.theguardian.com/football/2014/oct/29/tottenham-brighton-capital-one-cup-match-report</report>
         </result>
         <goals>
+            <scorer>Lamela</scorer>
+            <scorer>Kane</scorer>
         </goals>
     </match>
     <match>
@@ -240,8 +268,15 @@
         <day>Sun</day>
         <date>2 Nov</date>
         <time>16:00</time>
-        <result></result>
-        <goals></goals>
+        <result>
+            <for>2</for>
+            <against>1</against>
+            <report source="Guardian">http://www.theguardian.com/football/2014/nov/02/aston-villa-tottenham-hotspur-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer>Chadli</scorer>
+            <scorer>Kane</scorer>
+        </goals>
     </match>
     <match>
         <competition>EL</competition>
@@ -251,8 +286,13 @@
         <date>6 Nov</date>
         <time>18:00</time>
         <result>
+            <for>2</for>
+            <against>1</against>
+            <report source="Guardian">http://www.theguardian.com/football/2014/nov/06/asteras-tripoli-tottenham-hotspur-europa-league</report>
         </result>
         <goals>
+            <scorer detail="p">Townsend</scorer>
+            <scorer>Kane</scorer>
         </goals>
     </match>
     <match>
@@ -262,8 +302,14 @@
         <day>Sun</day>
         <date>9 Nov</date>
         <time>13:30</time>
-        <result></result>
-        <goals></goals>
+        <result>
+            <for>1</for>
+            <against>2</against>
+            <report source="Guardian">http://www.theguardian.com/football/2014/nov/09/tottenham-hotspur-stoke-city-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer>Chadli</scorer>
+        </goals>
     </match>
     <match>
         <competition>Premiership</competition>
@@ -272,8 +318,15 @@
         <day>Sun</day>
         <date>23 Nov</date>
         <time>16:00</time>
-        <result></result>
-        <goals></goals>
+        <result>
+            <for>2</for>
+            <against>1</against>
+            <report source="Guardian">http://www.theguardian.com/football/2014/nov/23/hull-city-tottenham-hotspur-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer>Kane</scorer>
+            <scorer>Eriksen</scorer>
+        </goals>
     </match>
     <match>
         <competition>EL</competition>
@@ -283,8 +336,12 @@
         <date>27 Nov</date>
         <time>20:05</time>
         <result>
+            <for>1</for>
+            <against>0</against>
+            <report source="Guardian">http://www.theguardian.com/football/2014/nov/27/tottenham-hotspur-partizan-belgrade-europa-league-match-report</report>
         </result>
         <goals>
+            <scorer>Stambouli</scorer>
         </goals>
     </match>
     <match>
@@ -294,8 +351,15 @@
         <day>Sun</day>
         <date>30 Nov</date>
         <time>16:00</time>
-        <result></result>
-        <goals></goals>
+        <result>
+            <for>2</for>
+            <against>1</against>
+            <report source="Guardian">http://www.theguardian.com/football/2014/nov/30/tottenham-hotspur-everton-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer>Eriksen</scorer>
+            <scorer>Soldado</scorer>
+        </goals>
     </match>
     <match>
         <competition>Premiership</competition>
@@ -304,8 +368,13 @@
         <day>Wed</day>
         <date>3 Dec</date>
         <time>19:45</time>
-        <result></result>
-        <goals></goals>
+        <result>
+            <for>0</for>
+            <against>3</against>
+            <report source="Guardian">http://www.theguardian.com/football/2014/dec/03/chelsea-tottenham-hotspur-premier-league-match-report</report>
+        </result>
+        <goals>
+         </goals>
     </match>
     <match>
         <competition>Premiership</competition>
@@ -314,8 +383,13 @@
         <day>Sat</day>
         <date>6 Dec</date>
         <time>15:00</time>
-        <result></result>
-        <goals></goals>
+        <result>
+            <for>0</for>
+            <against>0</against>
+            <report source="Guardian">http://www.theguardian.com/football/2014/dec/07/tottenham-crystal-palace-premier-league-match-report</report>
+        </result>
+        <goals>
+        </goals>
     </match>
     <match>
         <competition>EL</competition>
@@ -325,6 +399,9 @@
         <date>11 Dec</date>
         <time>18:00</time>
         <result>
+            <for>0</for>
+            <against>1</against>
+            <report source="Guardian">http://www.theguardian.com/football/2014/dec/11/besiktas-tottenham-hotspur-europa-league-match-report</report>
         </result>
         <goals>
         </goals>
@@ -336,8 +413,34 @@
         <day>Sat</day>
         <date>13 Dec</date>
         <time>15:00</time>
-        <result></result>
-        <goals></goals>
+        <result>
+            <for>2</for>
+            <against>1</against>
+            <report source="Guardian">http://www.theguardian.com/football/2014/dec/14/swansea-city-tottenham-hotspur-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer>Kane</scorer>
+            <scorer>Eriksen</scorer>
+        </goals>
+    </match>
+    <match>
+        <competition>COLC</competition>
+        <venue>H</venue>
+        <opposition>Newcastle United</opposition>
+        <day>Wed</day>
+        <date>17 Dec</date>
+        <time>19:45</time>
+        <result>
+            <for>4</for>
+            <against>0</against>
+            <report source="Guardian">http://www.theguardian.com/football/2014/dec/17/tottenham-hotspur-newcastle-united-capital-one-cup-quarter-final</report>
+        </result>
+        <goals>
+            <scorer>Bentaleb</scorer>
+            <scorer>Chadli</scorer>
+            <scorer>Kane</scorer>
+            <scorer>Soldado</scorer>
+        </goals>
     </match>
     <match>
         <competition>Premiership</competition>
@@ -346,8 +449,15 @@
         <day>Sat</day>
         <date>20 Dec</date>
         <time>15:00</time>
-        <result></result>
-        <goals></goals>
+        <result>
+            <for>2</for>
+            <against>1</against>
+            <report source="Guardian">http://www.theguardian.com/football/2014/dec/20/tottenham-hotspur-burnley-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer>Kane</scorer>
+            <scorer>Lamela</scorer>
+        </goals>
     </match>
     <match>
         <competition>Premiership</competition>
@@ -356,8 +466,15 @@
         <day>Fri</day>
         <date>26 Dec</date>
         <time>15:00</time>
-        <result></result>
-        <goals></goals>
+        <result>
+            <for>2</for>
+            <against>1</against>
+            <report source="Guardian">http://www.theguardian.com/football/2014/dec/26/leicester-city-tottenham-hotspur-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer>Kane</scorer>
+            <scorer>Eriksen</scorer>
+        </goals>
     </match>
     <match>
         <competition>Premiership</competition>
@@ -366,8 +483,13 @@
         <day>Sun</day>
         <date>28 Dec</date>
         <time>15:00</time>
-        <result></result>
-        <goals></goals>
+        <result>
+            <for>0</for>
+            <against>0</against>
+            <report source="Guardian">http://www.theguardian.com/football/2014/dec/28/tottenham-hotspur-manchester-united-premier-league-match-report</report>
+        </result>
+        <goals>
+        </goals>
     </match>
     <match>
         <competition>Premiership</competition>
@@ -375,9 +497,34 @@
         <opposition>Chelsea</opposition>
         <day>Thu</day>
         <date>1 Jan</date>
+        <time>17:00</time>
+        <result>
+            <for>5</for>
+            <against>3</against>
+            <report source="Guardian">http://www.theguardian.com/football/2015/jan/01/tottenham-hotspur-chelsea-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer detail="2">Kane</scorer>
+            <scorer>Rose</scorer>
+            <scorer detail="p">Townsend</scorer>
+            <scorer>Chadli</scorer>
+        </goals>
+    </match>
+    <match>
+        <competition>FAC</competition>
+        <venue>A</venue>
+        <opposition>Burnley</opposition>
+        <day>Sat</day>
+        <date>3 Jan</date>
         <time>15:00</time>
-        <result></result>
-        <goals></goals>
+        <result>
+            <for>1</for>
+            <against>1</against>
+            <report source="Guardian">http://www.theguardian.com/football/2015/jan/05/burnley-tottenham-fa-cup-match-report</report>
+        </result>
+        <goals>
+            <scorer>Chadli</scorer>
+        </goals>
     </match>
     <match>
         <competition>Premiership</competition>
@@ -386,8 +533,33 @@
         <day>Sat</day>
         <date>10 Jan</date>
         <time>15:00</time>
-        <result></result>
-        <goals></goals>
+        <result>
+            <for>1</for>
+            <against>2</against>
+            <report source="Guardian">http://www.theguardian.com/football/2015/jan/11/crystal-palace-alan-pardew-tottenham-hotspur-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer>Kane</scorer>
+        </goals>
+    </match>
+    <match>
+        <competition>FAC</competition>
+        <venue>H</venue>
+        <opposition>Burnley</opposition>
+        <day>Wed</day>
+        <date>14 Jan</date>
+        <time>20:00</time>
+        <result>
+            <for>4</for>
+            <against>2</against>
+            <report source="Guardian">http://www.theguardian.com/football/2015/jan/14/tottenham-hotspur-burnley-fa-cup-replay-match-report</report>
+        </result>
+        <goals>
+            <scorer>Paulinho</scorer>
+            <scorer>Capoue</scorer>
+            <scorer>Chiriches</scorer>
+            <scorer>Rose</scorer>
+        </goals>
     </match>
     <match>
         <competition>Premiership</competition>
@@ -396,6 +568,36 @@
         <day>Sat</day>
         <date>17 Jan</date>
         <time>15:00</time>
+        <result></result>
+        <goals></goals>
+    </match>
+    <match>
+        <competition>FAC</competition>
+        <venue>H</venue>
+        <opposition>Leicester City</opposition>
+        <day>Sat</day>
+        <date>24 Jan</date>
+        <time>15:00</time>
+        <result></result>
+        <goals></goals>
+    </match>
+    <match>
+        <competition>COLC</competition>
+        <venue>H</venue>
+        <opposition>Sheffield United</opposition>
+        <day>Wed</day>
+        <date>21 Jan</date>
+        <time>20:00</time>
+        <result></result>
+        <goals></goals>
+    </match>
+    <match>
+        <competition>COLC</competition>
+        <venue>A</venue>
+        <opposition>Sheffield United</opposition>
+        <day>Wed</day>
+        <date>28 Jan</date>
+        <time>20:00</time>
         <result></result>
         <goals></goals>
     </match>
@@ -430,11 +632,31 @@
         <goals></goals>
     </match>
     <match>
+        <competition>EL</competition>
+        <venue>H</venue>
+        <opposition>Fiorentina</opposition>
+        <day>Thu</day>
+        <date>19 Feb</date>
+        <time>15:00</time>
+        <result></result>
+        <goals></goals>
+    </match>
+    <match>
         <competition>Premiership</competition>
         <venue>H</venue>
         <opposition>West Ham United</opposition>
-        <day>Sat</day>
-        <date>21 Feb</date>
+        <day>Sun</day>
+        <date>22 Feb</date>
+        <time>12:00</time>
+        <result></result>
+        <goals></goals>
+    </match>
+    <match>
+        <competition>EL</competition>
+        <venue>A</venue>
+        <opposition>Fiorentina</opposition>
+        <day>Thu</day>
+        <date>26 Feb</date>
         <time>15:00</time>
         <result></result>
         <goals></goals>
@@ -444,8 +666,8 @@
         <venue>A</venue>
         <opposition>Queens Park Rangers</opposition>
         <day>Sat</day>
-        <date>28 Feb</date>
-        <time>15:00</time>
+        <date>01 Mar</date>
+        <time>14:00</time>
         <result></result>
         <goals></goals>
     </match>
