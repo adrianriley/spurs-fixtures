@@ -568,18 +568,15 @@
         <day>Sat</day>
         <date>17 Jan</date>
         <time>15:00</time>
-        <result></result>
-        <goals></goals>
-    </match>
-    <match>
-        <competition>FAC</competition>
-        <venue>H</venue>
-        <opposition>Leicester City</opposition>
-        <day>Sat</day>
-        <date>24 Jan</date>
-        <time>15:00</time>
-        <result></result>
-        <goals></goals>
+        <result>
+            <for>2</for>
+            <against>1</against>
+            <report>http://www.theguardian.com/football/2015/jan/17/tottenham-hotspur-sunderland-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer detail="og">O&apos;Shea</scorer>
+            <scorer>Eriksen</scorer>
+        </goals>
     </match>
     <match>
         <competition>COLC</competition>
@@ -588,8 +585,30 @@
         <day>Wed</day>
         <date>21 Jan</date>
         <time>20:00</time>
-        <result></result>
-        <goals></goals>
+        <result>
+            <for>1</for>
+            <against>0</against>
+            <report>http://www.theguardian.com/football/2015/jan/21/tottenham-hotspur-sheffield-united-capital-one-cup-semi-final</report>
+        </result>
+        <goals>
+            <scorer detail="p">Townsend</scorer>
+        </goals>
+    </match>
+    <match>
+        <competition>FAC</competition>
+        <venue>H</venue>
+        <opposition>Leicester City</opposition>
+        <day>Sat</day>
+        <date>24 Jan</date>
+        <time>15:00</time>
+        <result>
+            <for>1</for>
+            <against>2</against>
+            <report>http://www.theguardian.com/football/2015/jan/24/tottenham-hotspur-leicester-city-fa-cup-match-report</report>
+        </result>
+        <goals>
+            <scorer detail="p">Townsend</scorer>
+        </goals>
     </match>
     <match>
         <competition>COLC</competition>
@@ -597,7 +616,7 @@
         <opposition>Sheffield United</opposition>
         <day>Wed</day>
         <date>28 Jan</date>
-        <time>20:00</time>
+        <time>19:45</time>
         <result></result>
         <goals></goals>
     </match>
@@ -781,4 +800,10 @@
         <result></result>
         <goals></goals>
     </match>
+    
+    <links>
+        <link name="SpursFixtures">http://www.tottenhamhotspur.com/matches/</link>
+        <link name="PremierLeagueFixtures">http://www.premierleague.com/en-gb/matchday/matches.html?paramClubId=ALL&amp;paramComp_100=true&amp;view=.dateSeason</link>
+        <link name="ReplyToFootballDataCo">ReplyToFootballDataCo.html</link>
+    </links>
 </fixtures>

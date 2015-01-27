@@ -25,7 +25,7 @@
 
 <colgroup>
 <col class="ac" width="15"/>
-<col class="ac" width="75"/>
+<col class="ac" width="85"/>
 <col class="ac" width="45"/>
 <col class="opp"/>
 <col class="ac"/>
@@ -50,10 +50,24 @@
 </table>
 <p class="comment">Unfortunately, I am no longer able to publish future fixtures, having received <a href="FootballDataCo.html">this</a> ludicrous
 commmunication from a body called Football Data Co. Ltd. which claims "intellectual property rights" over English
-and Scottish League and Cup fixture lists. Click <a href="ReplyToFootballDataCo.html">here</a> for my reply.
+and Scottish League and Cup fixture lists. Click
+<xsl:call-template name="link">
+    <xsl:with-param name="href" select="links/link[@name='ReplyToFootballDataCo']"/>
+    <xsl:with-param name="content">here</xsl:with-param>
+</xsl:call-template>
+for my reply.
 </p>
-<p class="comment">So instead of reading the fixtures here, you must click <a href="http://www.tottenhamhotspur.com/matches/matches_frr.html">here</a> for the Spurs fixture list, but without
-my elegant formatting, or <a href="http://www.premierleague.com/page/FixturesResults/0,,12306,00.html">here</a> for all Premier League fixtures, or go to any of the myriad other locations on the web posting the data.</p>
+<p class="comment">So instead of reading the fixtures here, you must click 
+<xsl:call-template name="link">
+    <xsl:with-param name="href" select="links/link[@name='SpursFixtures']"/>
+    <xsl:with-param name="content">here</xsl:with-param>
+</xsl:call-template>
+for the Spurs fixture list, but without my elegant formatting, or 
+<xsl:call-template name="link">
+    <xsl:with-param name="href" select="links/link[@name='PremierLeagueFixtures']"/>
+    <xsl:with-param name="content">here</xsl:with-param>
+</xsl:call-template>
+for all Premier League fixtures, or go to any of the myriad other locations on the web posting the data.</p>
 </body>
 
 </xsl:template>
@@ -146,6 +160,19 @@ my elegant formatting, or <a href="http://www.premierleague.com/page/FixturesRes
 <xsl:value-of select="."/>
 <xsl:if test="@detail"><sup><xsl:value-of select="@detail"/></sup></xsl:if>
 <xsl:if test="position() != last() - 1"><xsl:text>, </xsl:text></xsl:if>
+</xsl:template>
+
+<xsl:template name="link">
+    <xsl:param name="href"/>
+    <xsl:param name="content"/>
+        
+    <a>
+        <xsl:attribute name="href">
+            <xsl:value-of select="$href"/>
+        </xsl:attribute>
+        <xsl:value-of select="$content"/>
+    </a>
+
 </xsl:template>
 
 </xsl:stylesheet>

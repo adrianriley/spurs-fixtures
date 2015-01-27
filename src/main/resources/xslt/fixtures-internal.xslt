@@ -22,7 +22,7 @@
 
 <colgroup>
 <col class="ac" width="15"/>
-<col class="ac" width="75"/>
+<col class="ac" width="85"/>
 <col class="ac" width="45"/>
 <col class="opp"/>
 <col class="ac" width="50"/>
