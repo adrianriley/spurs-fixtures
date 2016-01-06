@@ -96,27 +96,13 @@ for all Premier League fixtures, or go to any of the myriad other locations on t
 
 <xsl:template match="competition">
 <xsl:choose>
-	<xsl:when test=". = 'Premiership'">
-	<img alt="Premiership" title="Premiership" src="../images/premiership_logo.gif"/>
-	</xsl:when>
-	<xsl:when test=". = 'FAC'">
-	<img alt="FA Cup" title="FA Cup" src="../images/fa_cup_logo.gif"/>
-	</xsl:when>
-	<xsl:when test=". = 'CLC'">
-	<img alt="Carling Cup" title="Carling Cup" src="../images/carling_cup_logo.gif"/>
-	</xsl:when>
-	<xsl:when test=". = 'COLC'">
-	<img alt="League Cup" title="League Cup" src="../images/capital_one_cup_logo.jpg"/>
-	</xsl:when>
-	<xsl:when test=". = 'UEFA'">
-	<img alt="UEFA Cup" title="UEFA Cup" src="../images/uefa_cup_logo.gif"/>
-	</xsl:when>
-	<xsl:when test=". = 'CL'">
-	<img alt="Champions League" title="Champions League" src="../images/champions-league-21.gif"/>
-	</xsl:when>
-	<xsl:when test=". = 'EL'">
-	<img alt="Europa League" title="Europa League" src="../images/europa_league_logo.jpg"/>
-	</xsl:when>
+	<xsl:when test=". = 'Premiership'">Premiership</xsl:when>
+	<xsl:when test=". = 'FAC'">FA Cup</xsl:when>
+	<xsl:when test=". = 'CLC'">Carling Cup</xsl:when>
+	<xsl:when test=". = 'COLC'">League Cup</xsl:when>
+	<xsl:when test=". = 'UEFA'">UEFA Cup</xsl:when>
+	<xsl:when test=". = 'CL'">Champions League</xsl:when>
+	<xsl:when test=". = 'EL'">Europa League</xsl:when>
 	<xsl:otherwise>
 	<xsl:value-of select="."/>
 	</xsl:otherwise>
