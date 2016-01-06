@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fixtures>
+    <season>2015-2016</season>  
+    <match>
+        <competition>Premiership</competition>
+        <venue>A</venue>
+        <opposition>Manchester United</opposition>
+        <venue>A</venue>
+        <day>Sat</day>
+        <date>08/08</date>
+        <time>12:45</time>
+        <result>
+            <for>0</for>
+            <against>1</against>
+            <report source="Guardian">http://www.theguardian.com/football/2015/aug/08/manchester-united-tottenham-premier-league-match-report</report>
+        </result>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>H</venue>
+        <opposition>Stoke City</opposition>
+        <day>Sat</day>
+        <date>15/08</date>
+        <time>15:00</time>
+        <result>
+            <for>2</for>
+            <against>2</against>
+            <report source="Guardian">http://www.theguardian.com/football/live/2015/aug/15/tottenham-v-stoke-city-spurs-premier-league-live</report>
+        </result>
+        <goals>
+            <scorer>Dier</scorer>
+            <scorer>Chadli</scorer>
+        </goals>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>A</venue>
+        <opposition>Leicester City</opposition>
+        <venue>A</venue>
+        <day>Sat</day>
+        <date>22/08</date>
+        <time>15:00</time>
+        <result>
+            <for>1</for>
+            <against>1</against>
+            <report source="Guardian">http://www.theguardian.com/football/live/2015/aug/22/leicester-city-tottenham-hotspur-premier-league-live-updates</report>
+        </result>
+        <goals>
+            <scorer>Alli</scorer>
+        </goals>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>H</venue>
+        <opposition>Everton</opposition>
+        <day>Sat</day>
+        <date>29/08</date>
+        <time>17:30</time>
+        <result>
+            <for>0</for>
+            <against>0</against>
+            <report source="Guardian">http://www.theguardian.com/football/live/2015/aug/29/tottenham-hotspur-v-everton-premier-league-live</report>
+        </result>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>A</venue>
+        <opposition>Sunderland</opposition>
+        <venue>A</venue>
+        <day>Sun</day>
+        <date>13/09</date>
+        <time>13:30</time>
+        <result>
+            <for>1</for>
+            <against>0</against>
+            <report source="Guardian">http://www.theguardian.com/football/2015/sep/13/sunderland-tottenham-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer>Mason</scorer>
+        </goals>
+    </match>
+    <match>
+        <competition>EL</competition>
+        <venue>H</venue>
+        <opposition>FK Qarabag</opposition>
+        <day>Thu</day>
+        <date>17/09</date>
+        <time>20:05</time>
+        <result>
+            <for>3</for>
+            <against>1</against>
+            <report source="Guardian">http://www.theguardian.com/football/2015/sep/17/tottenham-hotspur-qarabag-europa-league-match-report</report>
+        </result>
+        <goals>
+            <scorer detail="2">Son</scorer>
+            <scorer>Lamela</scorer>
+        </goals>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>H</venue>
+        <opposition>Crystal Palace</opposition>
+        <day>Sun</day>
+        <date>20/09</date>
+        <time>13:30</time>
+        <result>
+            <for>1</for>
+            <against>0</against>
+            <report source="Guardian">http://www.theguardian.com/football/2015/sep/20/tottenham-crystal-palace-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer>Son</scorer>
+        </goals>
+    </match>
+    <match>
+        <competition>COLC</competition>
+        <venue>H</venue>
+        <opposition>Arsenal</opposition>
+        <day>Wed</day>
+        <date>23/09</date>
+        <time>19:45</time>
+        <result>
+            <for>1</for>
+            <against>2</against>
+            <report source="Guardian">http://www.theguardian.com/football/2015/sep/23/tottenham-arsenal-capital-one-cup-match-report</report>
+        </result>
+        <goals>
+            <scorer detail="og">Chambers</scorer>
+        </goals>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>H</venue>
+        <opposition>Manchester City</opposition>
+        <day>Sat</day>
+        <date>26/09</date>
+        <time>12:45</time>
+        <result>
+            <for>4</for>
+            <against>1</against>
+            <report source="Guardian">http://www.theguardian.com/football/2015/sep/26/tottenham-manchester-city-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer>Dier</scorer>
+            <scorer>Alderweireld</scorer>
+            <scorer>Kane</scorer>
+            <scorer>Lamela</scorer>
+        </goals>
+    </match>
+    <match>
+        <competition>EL</competition>
+        <venue>A</venue>
+        <opposition>Monaco</opposition>
+        <day>Thu</day>
+        <date>01/10</date>
+        <time>18:00</time>
+        <result>
+            <for>1</for>
+            <against>1</against>
+            <report source="Guardian">http://www.theguardian.com/football/2015/oct/01/monaco-tottenham-europa-league-match-report</report>
+        </result>
+        <goals>
+            <scorer>Lamela</scorer>
+        </goals>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>A</venue>
+        <opposition>Swansea City</opposition>
+        <day>Sun</day>
+        <date>04/10</date>
+        <time>16:00</time>
+        <result>
+            <for>2</for>
+            <against>2</against>
+            <report source="Guardian">http://www.theguardian.com/football/2015/oct/04/swansea-tottenham-hotspur-match-report</report>
+        </result>
+        <goals>
+            <scorer detail="2">Eriksen</scorer>
+        </goals>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>H</venue>
+        <opposition>Liverpool</opposition>
+        <day>Sat</day>
+        <date>17/10</date>
+        <time>12:45</time>
+        <result>
+            <for>0</for>
+            <against>0</against>
+            <report source="Guardian">http://www.theguardian.com/football/2015/oct/17/tottenham-hotspur-liverpool-premier-league-match-report</report>
+        </result>
+    </match>
+    <match>
+        <competition>EL</competition>
+        <venue>A</venue>
+        <opposition>RSC Anderlecht</opposition>
+        <day>Thu</day>
+        <date>22/10</date>
+        <time>18:00</time>
+        <result>
+            <for>1</for>
+            <against>2</against>
+            <report source="Guardian">http://www.theguardian.com/football/2015/oct/22/tottenham-anderlecht-europa-league-match-report</report>
+        </result>
+        <goals>
+            <scorer>Eriksen</scorer>
+        </goals>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>A</venue>
+        <opposition>Bournemouth</opposition>
+        <day>Sun</day>
+        <date>25/10</date>
+        <time>14:05</time>
+        <result>
+            <for>5</for>
+            <against>1</against>
+            <report source="Guardian">http://www.theguardian.com/football/2015/oct/25/bournemouth-tottenham-hotspur-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer detail="3(1p)">Kane</scorer>
+            <scorer>Dembele</scorer>
+            <scorer>Lamela</scorer>
+        </goals>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>H</venue>
+        <opposition>Aston Villa</opposition>
+        <day>Mon</day>
+        <date>02/11</date>
+        <time>20:00</time>
+        <result>
+            <for>1</for>
+            <against>0</against>
+            <report source="Guardian">http://www.theguardian.com/football/2015/nov/02/tottenham-aston-villa-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer>Dembele</scorer>
+            <scorer>Alli</scorer>
+            <scorer>Kane</scorer>
+        </goals>
+    </match>
+    <match>
+        <competition>EL</competition>
+        <venue>H</venue>
+        <opposition>RSC Anderlecht</opposition>
+        <day>Thu</day>
+        <date>05/11</date>
+        <time>20:05</time>
+        <result>
+            <for>2</for>
+            <against>1</against>
+            <report source="Guardian">http://www.theguardian.com/football/2015/nov/05/tottenham-anderlecht-europa-league-match-report</report>
+        </result>
+        <goals>
+            <scorer>Kane</scorer>
+            <scorer>Dembele</scorer>
+        </goals>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>A</venue>
+        <opposition>Arsenal</opposition>
+        <day>Sun</day>
+        <date>08/11</date>
+        <time>16:00</time>
+        <result>
+            <for>1</for>
+            <against>1</against>
+            <report source="Guardian">http://www.theguardian.com/football/2015/nov/08/arsenal-tottenham-kieran-gibbs-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer>Kane</scorer>
+        </goals>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>H</venue>
+        <opposition>West Ham United</opposition>
+        <day>Sun</day>
+        <date>22/11</date>
+        <time>16:00</time>
+        <result>
+            <for>4</for>
+            <against>1</against>
+            <report source="Guardian">http://www.theguardian.com/football/2015/nov/22/tottenham-hotspur-west-ham-united-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer detail="2">Kane</scorer>
+            <scorer>Alderweireld</scorer>
+            <scorer>Wlaker</scorer>
+        </goals>
+    </match>
+    <match>
+        <competition>EL</competition>
+        <venue>A</venue>
+        <opposition>FK Qarabag</opposition>
+        <day>Thu</day>
+        <date>26/11</date>
+        <time>18:00</time>
+        <result>
+            <for>1</for>
+            <against>0</against>
+            <report source="Guardian">http://www.theguardian.com/football/2015/nov/26/qarabag-tottenham-europa-league-match-report</report>
+        </result>
+        <goals>
+            <scorer>Kane</scorer>
+        </goals>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>H</venue>
+        <opposition>Chelsea</opposition>
+        <day>Sun</day>
+        <date>29/11</date>
+        <time>12:00</time>
+        <result>
+            <for>0</for>
+            <against>0</against>
+            <report source="Guardian">http://www.theguardian.com/football/2015/nov/29/tottenham-hotspur-chelsea-premier-league-match-report</report>
+        </result>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>A</venue>
+        <opposition>West Bromwich Albion</opposition>
+        <day>Sat</day>
+        <date>05/12</date>
+        <time>15:00</time>
+        <result>
+            <for>1</for>
+            <against>1</against>
+            <report source="Guardian">http://www.theguardian.com/football/2015/dec/05/west-bromwich-albion-tottenham-hotspur-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer>Alli</scorer>
+        </goals>
+    </match>
+    <match>
+        <competition>EL</competition>
+        <venue>H</venue>
+        <opposition>Monaco</opposition>
+        <day>Thu</day>
+        <date>10/12</date>
+        <time>20:05</time>
+        <result>
+            <for>4</for>
+            <against>1</against>
+            <report source="Guardian">http://www.theguardian.com/football/2015/dec/10/tottenham-monaco-europa-league-match-report</report>
+        </result>
+        <goals>
+            <scorer detail="3">Lamela</scorer>
+            <scorer>Carroll</scorer>
+        </goals>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>H</venue>
+        <opposition>Newcastle United</opposition>
+        <day>Sat</day>
+        <date>12/12</date>
+        <time>15:00</time>
+        <result>
+            <for>1</for>
+            <against>2</against>
+            <report source="Guardian">http://www.theguardian.com/football/2015/dec/13/tottenham-hotspur-newcastle-united-match-report</report>
+        </result>
+        <goals>
+            <scorer>Dier</scorer>
+        </goals>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>A</venue>
+        <opposition>Southampton</opposition>
+        <day>Sat</day>
+        <date>19/12</date>
+        <time>15:00</time>
+        <result>
+            <for>2</for>
+            <against>0</against>
+            <report source="Guardian">http://www.theguardian.com/football/2015/dec/19/southampton-tottenham-hotspur-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer>Kane</scorer>
+            <scorer>Alli</scorer>
+        </goals>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>H</venue>
+        <opposition>Norwich City</opposition>
+        <day>Sat</day>
+        <date>26/12</date>
+        <time>15:00</time>
+        <result>
+            <for>3</for>
+            <against>0</against>
+            <report source="Guardian">http://www.theguardian.com/football/2015/dec/26/tottenham-hotspur-norwich-city-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer detail="2(1p)">Kane</scorer>
+            <scorer>Carroll</scorer>
+        </goals>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>A</venue>
+        <opposition>Watford</opposition>
+        <day>Mon</day>
+        <date>28/12</date>
+        <time>15:00</time>
+        <result>
+            <for>2</for>
+            <against>1</against>
+            <report source="Guardian">http://www.theguardian.com/football/2015/dec/28/watford-tottenham-hotspur-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer>Lamela</scorer>
+            <scorer>Son</scorer>
+        </goals>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>A</venue>
+        <opposition>Everton</opposition>
+        <day>Sun</day>
+        <date>03/01</date>
+        <time>16:00</time>
+        <result>
+            <for>1</for>
+            <against>1</against>
+            <report source="Guardian">http://www.theguardian.com/football/2016/jan/03/everton-tottenham-hotspur-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer>Alli</scorer>
+        </goals>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>H</venue>
+        <opposition>Leicester City</opposition>
+        <day>Wed</day>
+        <date>13/01</date>
+        <time>20:00</time>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>H</venue>
+        <opposition>Sunderland</opposition>
+        <day>Sat</day>
+        <date>16/01</date>
+        <time>15:00</time>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>A</venue>
+        <opposition>Crystal Palace</opposition>
+        <day>Sat</day>
+        <date>23/01</date>
+        <time>15:00</time>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>A</venue>
+        <opposition>Norwich City</opposition>
+        <day>Tue</day>
+        <date>02/02</date>
+        <time>19:45</time>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>H</venue>
+        <opposition>Watford</opposition>
+        <day>Sat</day>
+        <date>06/02</date>
+        <time>15:00</time>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>A</venue>
+        <opposition>Manchester City</opposition>
+        <day>Sat</day>
+        <date>13/02</date>
+        <time>15:00</time>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>H</venue>
+        <opposition>Swansea City</opposition>
+        <day>Sat</day>
+        <date>27/02</date>
+        <time>15:00</time>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>A</venue>
+        <opposition>West Ham United</opposition>
+        <day>Tue</day>
+        <date>01/03</date>
+        <time>19:45</time>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>H</venue>
+        <opposition>Arsenal</opposition>
+        <day>Sat</day>
+        <date>05/03</date>
+        <time>15:00</time>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>A</venue>
+        <opposition>Aston Villa</opposition>
+        <day>Sat</day>
+        <date>12/03</date>
+        <time>15:00</time>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>H</venue>
+        <opposition>Bournemouth</opposition>
+        <day>Sat</day>
+        <date>19/03</date>
+        <time>15:00</time>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>A</venue>
+        <opposition>Liverpool</opposition>
+        <day>Sat</day>
+        <date>02/04</date>
+        <time>15:00</time>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>H</venue>
+        <opposition>Manchester United</opposition>
+        <day>Sat</day>
+        <date>09/04</date>
+        <time>15:00</time>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>A</venue>
+        <opposition>Stoke City</opposition>
+        <day>Sat</day>
+        <date>16/04</date>
+        <time>15:00</time>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>H</venue>
+        <opposition>West Bromwich Albion</opposition>
+        <day>Sat</day>
+        <date>23/04</date>
+        <time>15:00</time>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>A</venue>
+        <opposition>Chelsea</opposition>
+        <day>Sat</day>
+        <date>30/04</date>
+        <time>15:00</time>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>H</venue>
+        <opposition>Southampton</opposition>
+        <day>Sat</day>
+        <date>07/05</date>
+        <time>15:00</time>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>A</venue>
+        <opposition>Newcastle United</opposition>
+        <day>Sun</day>
+        <date>15/05</date>
+        <time>15:00</time>
+    </match>
+</fixtures>

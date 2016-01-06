@@ -617,8 +617,14 @@
         <day>Wed</day>
         <date>28 Jan</date>
         <time>19:45</time>
-        <result></result>
-        <goals></goals>
+        <result>
+            <for>2</for>
+            <against>2</against>
+            <report>http://www.theguardian.com/football/2015/jan/28/sheffield-united-tottenham-hotspur-capital-one-cup-match-report</report>
+        </result>
+        <goals>
+            <scorer detail="2">Eriksen</scorer>
+        </goals>
     </match>
     <match>
         <competition>Premiership</competition>
@@ -627,8 +633,15 @@
         <day>Sat</day>
         <date>31 Jan</date>
         <time>15:00</time>
-        <result></result>
-        <goals></goals>
+        <result>
+            <for>3</for>
+            <against>0</against>
+            <report>http://www.theguardian.com/football/2015/jan/31/west-bromwich-albion-tottenham-hotspur-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer>Eriksen</scorer>
+            <scorer detail="2(1p)">Kane</scorer>
+        </goals>
     </match>
     <match>
         <competition>Premiership</competition>
@@ -636,9 +649,15 @@
         <opposition>Arsenal</opposition>
         <day>Sat</day>
         <date>7 Feb</date>
-        <time>15:00</time>
-        <result></result>
-        <goals></goals>
+        <time>12:45</time>
+        <result>
+            <for>2</for>
+            <against>1</against>
+            <report>http://www.theguardian.com/football/2015/feb/07/tottenham-hotspur-arsenal-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer detail="2">Kane</scorer>
+        </goals>
     </match>
     <match>
         <competition>Premiership</competition>
@@ -647,8 +666,15 @@
         <day>Tue</day>
         <date>10 Feb</date>
         <time>20:00</time>
-        <result></result>
-        <goals></goals>
+        <result>
+            <for>2</for>
+            <against>3</against>
+            <report>http://www.theguardian.com/football/2015/feb/10/liverpool-tottenham-hotspur-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer>Eriksen</scorer>
+            <scorer>Dembele</scorer>
+        </goals>
     </match>
     <match>
         <competition>EL</competition>
@@ -656,9 +682,15 @@
         <opposition>Fiorentina</opposition>
         <day>Thu</day>
         <date>19 Feb</date>
-        <time>15:00</time>
-        <result></result>
-        <goals></goals>
+        <time>20:00</time>
+        <result>
+            <for>1</for>
+            <against>1</against>
+            <report>http://www.theguardian.com/football/2015/feb/19/tottenham-fiorentina-europa-league-match-report</report>
+        </result>
+        <goals>
+            <scorer>Soldado</scorer>
+        </goals>
     </match>
     <match>
         <competition>Premiership</competition>
@@ -667,8 +699,15 @@
         <day>Sun</day>
         <date>22 Feb</date>
         <time>12:00</time>
-        <result></result>
-        <goals></goals>
+        <result>
+            <for>2</for>
+            <against>2</against>
+            <report>http://www.theguardian.com/football/2015/feb/22/tottenham-hotspur-west-ham-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer>Rose</scorer>
+            <scorer>Kane</scorer>
+        </goals>
     </match>
     <match>
         <competition>EL</competition>
@@ -676,19 +715,25 @@
         <opposition>Fiorentina</opposition>
         <day>Thu</day>
         <date>26 Feb</date>
-        <time>15:00</time>
-        <result></result>
-        <goals></goals>
+        <time>18:00</time>
+        <result>
+            <for>0</for>
+            <against>2</against>
+            <report>http://www.theguardian.com/football/2015/feb/26/tottenham-fiorentina-europa-league-match-report</report>
+        </result>
     </match>
     <match>
-        <competition>Premiership</competition>
-        <venue>A</venue>
-        <opposition>Queens Park Rangers</opposition>
+        <competition>CLC</competition>
+        <venue>W</venue>
+        <opposition>Chelsea</opposition>
         <day>Sat</day>
         <date>01 Mar</date>
-        <time>14:00</time>
-        <result></result>
-        <goals></goals>
+        <time>16:00</time>
+        <result>
+            <for>0</for>
+            <against>2</against>
+            <report>http://www.theguardian.com/football/2015/mar/01/chelsea-tottenham-capital-one-cup-final-match-report</report>
+        </result>
     </match>
     <match>
         <competition>Premiership</competition>
@@ -697,8 +742,32 @@
         <day>Wed</day>
         <date>4 Mar</date>
         <time>19:45</time>
-        <result></result>
-        <goals></goals>
+        <result>
+            <for>3</for>
+            <against>2</against>
+            <report>http://www.theguardian.com/football/2015/mar/04/tottenham-hotspur-swansea-city-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer>Chadli</scorer>
+            <scorer>Mason</scorer>
+            <scorer>Townsend</scorer>
+        </goals>
+    </match>
+    <match>
+        <competition>Premiership</competition>
+        <venue>A</venue>
+        <opposition>Queens Park Rangers</opposition>
+        <day>Sat</day>
+        <date>15 Mar</date>
+        <time>15:00</time>
+        <result>
+            <for>2</for>
+            <against>1</against>
+            <report>http://www.theguardian.com/football/2015/mar/07/qpr-tottenham-hotspur-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer detail="2">Kane</scorer>
+        </goals>
     </match>
     <match>
         <competition>Premiership</competition>
@@ -707,8 +776,11 @@
         <day>Sat</day>
         <date>14 Mar</date>
         <time>15:00</time>
-        <result></result>
-        <goals></goals>
+        <result>
+            <for>0</for>
+            <against>3</against>
+            <report>http://www.theguardian.com/football/2015/mar/15/manchester-united-tottenham-hotspur-premier-league-match-report</report>
+        </result>
     </match>
     <match>
         <competition>Premiership</competition>
@@ -717,8 +789,15 @@
         <day>Sat</day>
         <date>21 Mar</date>
         <time>15:00</time>
-        <result></result>
-        <goals></goals>
+        <result>
+            <for>4</for>
+            <against>3</against>
+            <report>http://www.theguardian.com/football/2015/mar/21/tottenham-hotspur-leicester-city-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer detail="3(1p)">Kane</scorer>
+            <scorer detail="og">Schlupp</scorer>
+        </goals>
     </match>
     <match>
         <competition>Premiership</competition>
@@ -727,8 +806,13 @@
         <day>Sat</day>
         <date>4 Apr</date>
         <time>15:00</time>
-        <result></result>
-        <goals></goals>
+        <result>
+            <for>0</for>
+            <against>0</against>
+            <report>http://www.theguardian.com/football/2015/apr/05/burnley-tottenham-hotspur-premier-league-match-report</report>
+        </result>
+        <goals>
+        </goals>
     </match>
     <match>
         <competition>Premiership</competition>
@@ -737,8 +821,13 @@
         <day>Sat</day>
         <date>11 Apr</date>
         <time>15:00</time>
-        <result></result>
-        <goals></goals>
+        <result>
+            <for>0</for>
+            <against>1</against>
+            <report>http://www.theguardian.com/football/2015/apr/11/tottenham-hotspur-aston-villa-premier-league-match-report</report>
+        </result>
+        <goals>
+        </goals>
     </match>
     <match>
         <competition>Premiership</competition>
@@ -747,8 +836,16 @@
         <day>Sat</day>
         <date>18 Apr</date>
         <time>15:00</time>
-        <result></result>
-        <goals></goals>
+        <result>
+            <for>3</for>
+            <against>1</against>
+            <report>http://www.theguardian.com/football/2015/apr/19/newcastle-united-tottenham-hotspur-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer>Chadli</scorer>
+            <scorer>Eriksen</scorer>
+            <scorer>Kane</scorer>
+        </goals>
     </match>
     <match>
         <competition>Premiership</competition>
@@ -757,8 +854,15 @@
         <day>Sat</day>
         <date>25 Apr</date>
         <time>15:00</time>
-        <result></result>
-        <goals></goals>
+        <result>
+            <for>2</for>
+            <against>2</against>
+            <report>http://www.theguardian.com/football/2015/apr/25/southampton-tottenham-hotspur-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer>Lamela</scorer>
+            <scorer>Chadli</scorer>
+        </goals>
     </match>
     <match>
         <competition>Premiership</competition>
@@ -767,8 +871,13 @@
         <day>Sat</day>
         <date>2 May</date>
         <time>15:00</time>
-        <result></result>
-        <goals></goals>
+        <result>
+            <for>0</for>
+            <against>1</against>
+            <report>http://www.theguardian.com/football/2015/may/03/tottenham-hotspur-manchester-city-premier-league-match-report</report>
+        </result>
+        <goals>
+        </goals>
     </match>
     <match>
         <competition>Premiership</competition>
@@ -777,8 +886,13 @@
         <day>Sat</day>
         <date>9 May</date>
         <time>15:00</time>
-        <result></result>
-        <goals></goals>
+        <result>
+            <for>0</for>
+            <against>3</against>
+            <report>http://www.theguardian.com/football/2015/may/09/stoke-city-tottenham-hotspur-premier-league-match-report</report>
+        </result>
+        <goals>
+        </goals>
     </match>
     <match>
         <competition>Premiership</competition>
