@@ -441,12 +441,34 @@
         </goals>
     </match>
     <match>
+        <competition>FAC</competition>
+        <venue>H</venue>
+        <opposition>Leicester City</opposition>
+        <day>Sun</day>
+        <date>10/01</date>
+        <time>14:00</time>
+        <result>
+            <for>2</for>
+            <against>2</against>
+            <report source="Guardian">http://www.theguardian.com/football/2016/jan/10/tottenham-hotspur-leicester-city-fa-cup-match-report</report>
+        </result>
+        <goals>
+            <scorer>Eriksen</scorer>
+            <scorer detail="p">Kane</scorer>
+        </goals>
+    </match>
+    <match>
         <competition>Premiership</competition>
         <venue>H</venue>
         <opposition>Leicester City</opposition>
         <day>Wed</day>
         <date>13/01</date>
         <time>20:00</time>
+        <result>
+            <for>0</for>
+            <against>1</against>
+            <report source="Guardian">http://www.theguardian.com/football/2016/jan/13/tottenham-hotspur-leicester-premier-league-match-report</report>
+        </result>
     </match>
     <match>
         <competition>Premiership</competition>
@@ -454,7 +476,17 @@
         <opposition>Sunderland</opposition>
         <day>Sat</day>
         <date>16/01</date>
-        <time>15:00</time>
+        <time>12:45</time>
+        <result>
+            <for>4</for>
+            <against>1</against>
+            <report source="Guardian">http://www.theguardian.com/football/2016/jan/16/tottenham-sunderland-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer detail="2">Eriksen</scorer>
+            <scorer>Dembele</scorer>
+            <scorer detail="p">Kane</scorer>
+        </goals>
     </match>
     <match>
         <competition>Premiership</competition>
@@ -487,6 +519,22 @@
         <day>Sat</day>
         <date>13/02</date>
         <time>15:00</time>
+    </match>
+    <match>
+        <competition>EL</competition>
+        <venue>A</venue>
+        <opposition>Fiorentina</opposition>
+        <day>Thu</day>
+        <date>18/02</date>
+        <time>18:00</time>
+    </match>
+    <match>
+        <competition>EL</competition>
+        <venue>H</venue>
+        <opposition>Fiorentina</opposition>
+        <day>Thu</day>
+        <date>25/02</date>
+        <time>20:05</time>
     </match>
     <match>
         <competition>Premiership</competition>
