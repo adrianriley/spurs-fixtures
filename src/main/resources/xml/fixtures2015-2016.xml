@@ -489,12 +489,57 @@
         </goals>
     </match>
     <match>
+        <competition>FAC</competition>
+        <venue>A</venue>
+        <opposition>Leicester City</opposition>
+        <day>Wed</day>
+        <date>20/01</date>
+        <time>19:45</time>
+        <result>
+            <for>2</for>
+            <against>0</against>
+            <report source="Guardian">http://www.theguardian.com/football/2016/jan/20/leicester-city-tottenham-hotspur-fa-cup-replay-match-report</report>
+        </result>
+        <goals>
+            <scorer>Son</scorer>
+            <scorer>Chadli</scorer>
+        </goals>
+    </match>
+    <match>
         <competition>Premiership</competition>
         <venue>A</venue>
         <opposition>Crystal Palace</opposition>
         <day>Sat</day>
         <date>23/01</date>
         <time>15:00</time>
+        <result>
+            <for>3</for>
+            <against>1</against>
+            <report source="Guardian">http://www.theguardian.com/football/2016/jan/23/crystal-palace-tottenham-hotspur-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer>Kane</scorer>
+            <scorer>Alli</scorer>
+            <scorer>Chadli</scorer>
+        </goals>
+    </match>
+    <match>
+        <competition>FAC</competition>
+        <venue>A</venue>
+        <opposition>Colchester United</opposition>
+        <day>Sat</day>
+        <date>30/01</date>
+        <time>12:45</time>
+        <result>
+            <for>4</for>
+            <against>1</against>
+            <report source="Guardian">http://www.theguardian.com/football/2016/jan/30/colchester-tottenham-hotspur-fa-cup</report>
+        </result>
+        <goals>
+            <scorer detail="2">Chadli</scorer>
+            <scorer>Dier</scorer>
+            <scorer>Carroll</scorer>
+        </goals>
     </match>
     <match>
         <competition>Premiership</competition>
@@ -529,6 +574,14 @@
         <time>18:00</time>
     </match>
     <match>
+        <competition>FAC</competition>
+        <venue>H</venue>
+        <opposition>Crystal Palace</opposition>
+        <day>Sat</day>
+        <date>20/01</date>
+        <time>15:00</time>
+    </match>
+    <match>
         <competition>EL</competition>
         <venue>H</venue>
         <opposition>Fiorentina</opposition>
@@ -540,16 +593,16 @@
         <competition>Premiership</competition>
         <venue>H</venue>
         <opposition>Swansea City</opposition>
-        <day>Sat</day>
-        <date>27/02</date>
-        <time>15:00</time>
+        <day>Sun</day>
+        <date>28/02</date>
+        <time>14:05</time>
     </match>
     <match>
         <competition>Premiership</competition>
         <venue>A</venue>
         <opposition>West Ham United</opposition>
-        <day>Tue</day>
-        <date>01/03</date>
+        <day>Wed</day>
+        <date>02/03</date>
         <time>19:45</time>
     </match>
     <match>
