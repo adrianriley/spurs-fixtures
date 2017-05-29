@@ -548,6 +548,15 @@
         <day>Tue</day>
         <date>02/02</date>
         <time>19:45</time>
+        <result>
+            <for>3</for>
+            <against>0</against>
+            <report source="Guardian">http://www.theguardian.com/football/2016/feb/02/norwich-city-tottenham-hotspur-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer>Alli</scorer>
+            <scorer detail="2(1p)">Kane</scorer>
+        </goals>
     </match>
     <match>
         <competition>Premiership</competition>
@@ -556,14 +565,31 @@
         <day>Sat</day>
         <date>06/02</date>
         <time>15:00</time>
+        <result>
+            <for>1</for>
+            <against>0</against>
+            <report source="Guardian">http://www.theguardian.com/football/2016/feb/06/tottenham-hotspur-watford-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer>Trippier</scorer>
+        </goals>
     </match>
     <match>
         <competition>Premiership</competition>
         <venue>A</venue>
         <opposition>Manchester City</opposition>
-        <day>Sat</day>
-        <date>13/02</date>
-        <time>15:00</time>
+        <day>Sun</day>
+        <date>14/02</date>
+        <time>16:15</time>
+        <result>
+            <for>2</for>
+            <against>1</against>
+            <report source="Guardian">http://www.theguardian.com/football/2016/feb/14/manchester-city-tottenham-hotspur-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer detail="p">Kane</scorer>
+            <scorer>Eriksen</scorer>
+        </goals>
     </match>
     <match>
         <competition>EL</competition>
@@ -572,14 +598,27 @@
         <day>Thu</day>
         <date>18/02</date>
         <time>18:00</time>
+        <result>
+            <for>1</for>
+            <against>1</against>
+            <report source="Guardian">http://www.theguardian.com/football/live/2016/feb/18/fiorentina-v-tottenham-europa-league-live</report>
+        </result>
+        <goals>
+            <scorer detail="p">Chadli</scorer>
+        </goals>
     </match>
     <match>
         <competition>FAC</competition>
         <venue>H</venue>
         <opposition>Crystal Palace</opposition>
-        <day>Sat</day>
-        <date>20/01</date>
+        <day>Sun</day>
+        <date>21/02</date>
         <time>15:00</time>
+        <result>
+            <for>0</for>
+            <against>1</against>
+            <report source="Guardian">http://www.theguardian.com/football/2016/feb/21/tottenham-hotspur-crystal-palace-fa-cup-match-report</report>
+        </result>
     </match>
     <match>
         <competition>EL</competition>
@@ -588,6 +627,16 @@
         <day>Thu</day>
         <date>25/02</date>
         <time>20:05</time>
+        <result>
+            <for>3</for>
+            <against>0</against>
+            <report source="Guardian">http://www.theguardian.com/football/2016/feb/25/tottenham-hotspur-fiorentina-europa-league-match-report</report>
+        </result>
+        <goals>
+            <scorer>Lamela</scorer>
+            <scorer>Mason</scorer>
+            <scorer detail="og">Rodriguez</scorer>
+        </goals>
     </match>
     <match>
         <competition>Premiership</competition>
@@ -596,6 +645,15 @@
         <day>Sun</day>
         <date>28/02</date>
         <time>14:05</time>
+        <result>
+            <for>2</for>
+            <against>1</against>
+            <report source="Guardian">http://www.theguardian.com/football/2016/feb/28/tottenham-hotspur-swansea-city-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer>Chadli</scorer>
+            <scorer>Rose</scorer>
+        </goals>
     </match>
     <match>
         <competition>Premiership</competition>
@@ -604,6 +662,11 @@
         <day>Wed</day>
         <date>02/03</date>
         <time>19:45</time>
+        <result>
+            <for>0</for>
+            <against>1</against>
+            <report source="Guardian">http://www.theguardian.com/football/2016/mar/02/west-ham-united-tottenham-hotspur-premier-league-match-report</report>
+        </result>
     </match>
     <match>
         <competition>Premiership</competition>
@@ -612,22 +675,77 @@
         <day>Sat</day>
         <date>05/03</date>
         <time>15:00</time>
+        <result>
+            <for>2</for>
+            <against>2</against>
+            <report source="Guardian">http://www.theguardian.com/football/2016/mar/05/tottenham-hotspur-arsenal-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer>Alderweireld</scorer>
+            <scorer>Kane</scorer>
+        </goals>
+    </match>
+    <match>
+        <competition>EL</competition>
+        <venue>A</venue>
+        <opposition>Borussia Dortmand</opposition>
+        <day>Thu</day>
+        <date>10/03</date>
+        <time>18:00</time>
+        <result>
+            <for>0</for>
+            <against>3</against>
+            <report source="Guardian">http://www.theguardian.com/football/2016/mar/10/borussia-dortmund-tottenham-europa-league-match-report</report>
+        </result>
     </match>
     <match>
         <competition>Premiership</competition>
         <venue>A</venue>
         <opposition>Aston Villa</opposition>
-        <day>Sat</day>
-        <date>12/03</date>
-        <time>15:00</time>
+        <day>Sun</day>
+        <date>13/03</date>
+        <time>16:00</time>
+        <result>
+            <for>2</for>
+            <against>0</against>
+            <report source="Guardian">http://www.theguardian.com/football/2016/mar/13/aston-villa-tottenham-hotspur-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer detail="2">Kane</scorer>
+        </goals>
+    </match>
+    <match>
+        <competition>EL</competition>
+        <venue>H</venue>
+        <opposition>Borussia Dortmund</opposition>
+        <day>Thu</day>
+        <date>17/03</date>
+        <time>20:00</time>
+        <result>
+            <for>1</for>
+            <against>2</against>
+            <report source="Guardian">http://www.theguardian.com/football/2016/mar/17/tottenham-borussia-dortmund-europa-league-match-report</report>
+        </result>
+        <goals>
+            <scorer>Son</scorer>
+        </goals>
     </match>
     <match>
         <competition>Premiership</competition>
         <venue>H</venue>
         <opposition>Bournemouth</opposition>
-        <day>Sat</day>
-        <date>19/03</date>
-        <time>15:00</time>
+        <day>Sun</day>
+        <date>20/03</date>
+        <time>16:00</time>
+        <result>
+            <for>3</for>
+            <against>0</against>
+            <report source="Guardian">http://www.theguardian.com/football/2016/mar/20/tottenham-hotspur-bournemouth-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer detail="2">Kane</scorer>
+            <scorer>Eriksen</scorer>
+        </goals>
     </match>
     <match>
         <competition>Premiership</competition>
@@ -635,47 +753,99 @@
         <opposition>Liverpool</opposition>
         <day>Sat</day>
         <date>02/04</date>
-        <time>15:00</time>
+        <time>17:15</time>
+        <result>
+            <for>1</for>
+            <against>1</against>
+            <report source="Guardian">http://www.theguardian.com/football/2016/apr/02/liverpool-tottenham-hotspur-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer>Kane</scorer>
+        </goals>
     </match>
     <match>
         <competition>Premiership</competition>
         <venue>H</venue>
         <opposition>Manchester United</opposition>
         <day>Sat</day>
-        <date>09/04</date>
-        <time>15:00</time>
+        <date>10/04</date>
+        <time>16:00</time>
+        <result>
+            <for>3</for>
+            <against>0</against>
+            <report source="Guardian">http://www.theguardian.com/football/2016/apr/10/tottenham-manchester-united-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer>Alli</scorer>
+            <scorer>Alderweireld</scorer>
+            <scorer>Lamela</scorer>
+        </goals>
     </match>
     <match>
         <competition>Premiership</competition>
         <venue>A</venue>
         <opposition>Stoke City</opposition>
-        <day>Sat</day>
-        <date>16/04</date>
-        <time>15:00</time>
+        <day>Mon</day>
+        <date>18/04</date>
+        <time>20:00</time>
+        <result>
+            <for>4</for>
+            <against>0</against>
+            <report source="Guardian">http://www.theguardian.com/football/live/2016/apr/18/stoke-city-v-tottenham-hotspur-premier-league-live</report>
+        </result>
+        <goals>
+            <scorer detail="2">Kane</scorer>
+            <scorer detail="2">alli</scorer>
+        </goals>
     </match>
     <match>
         <competition>Premiership</competition>
         <venue>H</venue>
         <opposition>West Bromwich Albion</opposition>
-        <day>Sat</day>
-        <date>23/04</date>
-        <time>15:00</time>
+        <day>Mon</day>
+        <date>25/04</date>
+        <time>20:00</time>
+        <result>
+            <for>1</for>
+            <against>1</against>
+            <report source="Guardian">http://www.theguardian.com/football/2016/apr/25/tottenham-hotspur-west-bromwich-albion-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer detail="og">Dawson</scorer>
+        </goals>
     </match>
     <match>
         <competition>Premiership</competition>
         <venue>A</venue>
         <opposition>Chelsea</opposition>
-        <day>Sat</day>
-        <date>30/04</date>
-        <time>15:00</time>
+        <day>Mon</day>
+        <date>02/05</date>
+        <time>20:00</time>
+        <result>
+            <for>2</for>
+            <against>2</against>
+            <report source="Guardian">http://www.theguardian.com/football/2016/may/02/chelsea-tottenham-hotspur-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer>Kane</scorer>
+            <scorer>Son</scorer>
+        </goals>
     </match>
     <match>
         <competition>Premiership</competition>
         <venue>H</venue>
         <opposition>Southampton</opposition>
-        <day>Sat</day>
-        <date>07/05</date>
-        <time>15:00</time>
+        <day>Sun</day>
+        <date>09/05</date>
+        <time>13:30</time>
+        <result>
+            <for>1</for>
+            <against>2</against>
+            <report source="Guardian">http://www.theguardian.com/football/2016/may/08/tottenham-hotspur-southampton-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer>Son</scorer>
+        </goals>
     </match>
     <match>
         <competition>Premiership</competition>

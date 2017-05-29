@@ -100,6 +100,7 @@ for all Premier League fixtures, or go to any of the myriad other locations on t
 	<xsl:when test=". = 'FAC'">FA Cup</xsl:when>
 	<xsl:when test=". = 'CLC'">Carling Cup</xsl:when>
 	<xsl:when test=". = 'COLC'">League Cup</xsl:when>
+	<xsl:when test=". = 'EFLC'">EFL Cup</xsl:when>
 	<xsl:when test=". = 'UEFA'">UEFA Cup</xsl:when>
 	<xsl:when test=". = 'CL'">Champions League</xsl:when>
 	<xsl:when test=". = 'EL'">Europa League</xsl:when>

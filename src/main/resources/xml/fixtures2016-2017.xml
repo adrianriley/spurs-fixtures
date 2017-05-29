@@ -1,0 +1,940 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fixtures>
+    <season>2016-2017</season>  
+                                    
+    <match>
+        <competition>Premiership</competition>
+        <venue>A</venue>
+        <opposition>Everton</opposition>
+        <day>Sat</day>
+        <date>13/08</date>
+        <time>15:00</time>
+                                            
+        <result>
+            <for>1</for>
+            <against>1</against>
+            <report source="Guardian">https://www.theguardian.com/football/2016/aug/13/everton-tottenham-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer>Lamela</scorer>
+        </goals>
+    </match>
+                                    
+    <match>
+        <competition>Premiership</competition>
+        <venue>H</venue>
+        <opposition>Crystal Palace</opposition>
+        <day>Sat</day>
+        <date>20/08</date>
+        <time>15:00</time>
+                                            
+        <result>
+            <for>1</for>
+            <against>0</against>
+            <report>https://www.theguardian.com/football/2016/aug/20/tottenham-hotspur-crystal-palace-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer>Wanyama</scorer>
+        </goals>
+    </match>
+                                    
+    <match>
+        <competition>Premiership</competition>
+        <venue>H</venue>
+        <opposition>Liverpool</opposition>
+        <day>Sat</day>
+        <date>27/08</date>
+        <time>12:30</time>
+                                            
+        <result>
+            <for>1</for>
+            <against>1</against>
+            <report>https://www.theguardian.com/football/live/2016/aug/27/tottenham-v-liverpool-premier-league-live</report>
+        </result>
+        <goals>
+            <scorer>Rose</scorer>
+        </goals>
+    </match>
+                          	                    
+    <match>
+        <competition>Premiership</competition>
+        <venue>A</venue>
+        <opposition>Stoke City</opposition>
+        <day>Sat</day>
+        <date>10/09</date>
+        <time>15:00</time>
+                                            
+        <result>
+            <for>4</for>
+            <against>0</against>
+            <report>https://www.theguardian.com/football/2016/sep/10/stoke-city-tottenham-hotspur-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer detail="2">Son</scorer>
+            <scorer>Alli</scorer>
+            <scorer>Kane</scorer>
+        </goals>
+    </match>
+                          	                    
+    <match>
+        <competition>CL</competition>
+        <venue>H</venue>
+        <opposition>Monaco</opposition>
+        <day>Wed</day>
+        <date>14/09</date>
+        <time>19:45</time>
+                                            
+        <result>
+            <for>1</for>
+            <against>2</against>
+            <report>https://www.theguardian.com/football/2016/sep/14/tottenham-hotspur-monaco-champions-league-group-e-match-report</report>
+        </result>
+        <goals>
+            <scorer>Alderweireld</scorer>
+        </goals>
+    </match>
+                          	                    
+    <match>
+        <competition>Premiership</competition>
+        <venue>H</venue>
+        <opposition>Sunderland</opposition>
+        <day>Sun</day>
+        <date>18/09</date>
+        <time>16:30</time>
+                                            
+        <result>
+            <for>1</for>
+            <against>0</against>
+            <report>https://www.theguardian.com/football/live/2016/sep/18/tottenham-hotspur-sunderland-premier-league-live</report>
+        </result>
+        <goals>
+            <scorer>Kane</scorer>
+        </goals>
+    </match>
+                          	                    
+    <match>
+        <competition>EFLC</competition>
+        <venue>H</venue>
+        <opposition>Gillingham</opposition>
+        <day>Wed</day>
+        <date>21/10</date>
+        <time>20:00</time>
+                                            
+        <result>
+            <for>5</for>
+            <against>0</against>
+            <report>https://www.theguardian.com/football/2016/sep/21/tottenham-hotspur-gillingham-efl-cup-match-report-eriksen</report>
+        </result>
+        <goals>
+            <scorer detail="2">Eriksen</scorer>
+            <scorer detail="p">Janssen</scorer>
+            <scorer>Onomah</scorer>
+            <scorer>Lamela</scorer>
+        </goals>
+    </match>
+                          	                    
+    <match>
+        <competition>Premiership</competition>
+        <venue>H</venue>
+        <opposition>Middlesbrough</opposition>
+        <day>Sat</day>
+        <date>24/09</date>
+        <time>15:00</time>
+                                            
+        <result>
+            <for>2</for>
+            <against>1</against>
+            <report>https://www.theguardian.com/football/2016/sep/24/middlesbrough-tottenham-hotspur-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer detail="2">Son</scorer>
+        </goals>
+    </match>
+                          	                    
+    <match>
+        <competition>CL</competition>
+        <venue>A</venue>
+        <opposition>CSKA Moscow</opposition>
+        <day>Tue</day>
+        <date>27/09</date>
+        <time>19:45</time>
+                                            
+        <result>
+            <for>1</for>
+            <against>0</against>
+            <report>https://www.theguardian.com/football/live/2016/sep/27/cska-moscow-v-tottenham-hotspur-champions-league-live</report>
+        </result>
+        <goals>
+            <scorer>Son</scorer>
+        </goals>
+    </match>
+                          	                    
+    <match>
+        <competition>Premiership</competition>
+        <venue>H</venue>
+        <opposition>Manchester City</opposition>
+        <day>Sun</day>
+        <date>02/10</date>
+        <time>14:15</time>
+        <result>
+            <for>2</for>
+            <against>0</against>
+            <report>https://www.theguardian.com/football/live/2016/oct/02/tottenham-v-manchester-city-premier-league-live</report>
+        </result>
+        <goals>
+            <scorer detail="og">Kolarov</scorer>
+            <scorer>Alli</scorer>
+        </goals>
+    </match>
+                                    
+    <match>
+        <competition>Premiership</competition>
+        <venue>A</venue>
+        <opposition>West Bromwich Albion</opposition>
+        <day>Sat</day>
+        <date>15/10</date>
+        <time>15:00</time>
+        <result>
+            <for>1</for>
+            <against>1</against>
+            <report>https://www.theguardian.com/football/2016/oct/15/west-bromwich-albion-tottenham-hotspur-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer>Alli</scorer>
+        </goals>
+    </match>
+                          	                    
+    <match>
+        <competition>CL</competition>
+        <venue>A</venue>
+        <opposition>Bayer Leverkusen</opposition>
+        <day>Tue</day>
+        <date>18/10</date>
+        <time>19:45</time>
+                                            
+        <result>
+            <for>0</for>
+            <against>0</against>
+            <report>https://www.theguardian.com/football/2016/oct/18/bayer-leverkusen-tottenham-champions-league-match-report</report>
+        </result>
+        <goals>
+        </goals>
+    </match>
+                                    
+    <match>
+        <competition>Premiership</competition>
+        <venue>A</venue>
+        <opposition>Bournemouth</opposition>
+        <day>Sat</day>
+        <date>22/10</date>
+        <time>12:30</time>
+        <result>
+            <for>0</for>
+            <against>0</against>
+            <report>https://www.theguardian.com/football/2016/oct/22/bournemouth-tottenham-hotspur-premier-league-match-report</report>
+        </result>
+    </match>
+                                    
+    <match>
+        <competition>EFLC</competition>
+        <venue>A</venue>
+        <opposition>Liverpool</opposition>
+        <day>Tue</day>
+        <date>25/10</date>
+        <time>19:45</time>
+        <result>
+            <for>1</for>
+            <against>2</against>
+            <report>https://www.theguardian.com/football/2016/oct/25/liverpool-tottenham-hotspur-efl-cup-match-report</report>
+        </result>
+        <goals>
+            <scorer detail="p">Janssen</scorer>
+        </goals>
+    </match>
+                                    
+    <match>
+        <competition>Premiership</competition>
+        <venue>H</venue>
+        <opposition>Leicester City</opposition>
+        <day>Sat</day>
+        <date>29/10</date>
+        <time>15:00</time>
+        <result>
+            <for>1</for>
+            <against>1</against>
+            <report>https://www.theguardian.com/football/2016/oct/29/tottenham-hotspur-leicester-city-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer detail="p">Janssen</scorer>
+        </goals>
+    </match>                          	                    
+    <match>
+        <competition>CL</competition>
+        <venue>H</venue>
+        <opposition>Bayer Leverkusen</opposition>
+        <day>Wed</day>
+        <date>02/11</date>
+        <time>19:45</time>
+                                            
+        <result>
+            <for>0</for>
+            <against>1</against>
+            <report>https://www.theguardian.com/football/2016/nov/02/tottenham-bayer-leverkusen-champions-league-match-report</report>
+        </result>
+        <goals>
+        </goals>
+    </match>
+
+    <match>
+        <competition>Premiership</competition>
+        <venue>A</venue>
+        <opposition>Arsenal</opposition>
+        <day>Sun</day>
+        <date>06/11</date>
+        <time>12:00</time>
+        <result>
+            <for>1</for>
+            <against>1</against>
+            <report>https://www.theguardian.com/football/2016/nov/06/arsenal-tottenham-hotspur-premier-league-match-report</report>
+        </result>
+        <goals>
+            <acorer detail="p">Kane</acorer>
+        </goals>
+    </match>
+                                    
+    <match>
+        <competition>Premiership</competition>
+        <venue>H</venue>
+        <opposition>West Ham</opposition>
+        <day>Sat</day>
+        <date>19/11</date>
+        <time>17:30</time>
+        <result>
+            <for>3</for>
+            <against>2</against>
+            <report>https://www.theguardian.com/football/2016/nov/19/tottenham-hotspur-west-ham-united-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer>Winks</scorer>
+            <scorer detail="2,1p">Kane</scorer>
+        </goals>
+    </match>
+                          	                    
+    <match>
+        <competition>CL</competition>
+        <venue>A</venue>
+        <opposition>Monaco</opposition>
+        <day>Tue</day>
+        <date>22/11</date>
+        <time>19:45</time>                
+        <result>
+            <for>1</for>
+            <against>2</against>
+            <report>https://www.theguardian.com/football/live/2016/nov/22/tottenham-v-monaco-champions-league-live</report>
+        </result>
+        <goals>
+            <scorer detail="p">Kane</scorer>
+        </goals>
+    </match>
+                                    
+    <match>
+        <competition>Premiership</competition>
+        <venue>A</venue>
+        <opposition>Chelsea</opposition>
+        <day>Sat</day>
+        <date>26/11</date>
+        <time>17:30</time>
+        <result>
+            <for>1</for>
+            <against>2</against>
+            <report>https://www.theguardian.com/football/2016/nov/26/chelsea-tottenham-premier-league-match-report</report>
+        </result>
+        <goals>
+            <acorer>Eriksen</acorer>
+        </goals>
+    </match>
+                          	                    
+    <match>
+        <competition>Premiership</competition>
+        <venue>H</venue>
+        <opposition>Swansea City</opposition>
+        <day>Sat</day>
+        <date>03/12</date>
+        <time>15:00</time>
+        <result>
+            <for>5</for>
+            <against>0</against>
+            <report>https://www.theguardian.com/football/2016/dec/03/tottenham-hotspur-swansea-city-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer detail="2,1p">Kane</scorer>
+            <scorer>Son</scorer>
+            <scorer detail="2">Eriksen</scorer>
+        </goals>
+    </match>
+                          	                    
+    <match>
+        <competition>CL</competition>
+        <venue>H</venue>
+        <opposition>CSKA Moscow</opposition>
+        <day>Wed</day>
+        <date>07/12</date>
+        <time>19:45</time>                            
+        <result>
+            <for>3</for>
+            <against>1</against>
+            <report>https://www.theguardian.com/football/2016/dec/07/tottenham-hotspur-cska-moscow-champions-league-group-e-match-report</report>
+        </result>
+        <goals>
+            <scorer>Alli</scorer>
+            <scorer>Kane</scorer>
+            <scorer detail="og">Akinfeev</scorer>
+        </goals>
+    </match>
+                                    
+    <match>
+        <competition>Premiership</competition>
+        <venue>A</venue>
+        <opposition>Manchester United</opposition>
+        <day>Sun</day>
+        <date>11/12</date>
+        <time>15:00</time>
+        <result>
+            <for>0</for>
+            <against>1</against>
+            <report>https://www.theguardian.com/football/2016/dec/11/manchester-united-tottenham-hotspur-premier-league-match-report</report>
+        </result>
+    </match>
+                                    
+    <match>
+        <competition>Premiership</competition>
+        <venue>H</venue>
+        <opposition>Hull City</opposition>
+        <day>Wed</day>
+        <date>14/12</date>
+        <time>20:00</time>
+        <result>
+            <for>3</for>
+            <against>0</against>
+            <report>https://www.theguardian.com/football/2016/dec/14/tottenham-hotspur-hull-city-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer detail="2">Eriksen</scorer>
+            <scorer>Wanyama</scorer>
+        </goals>
+    </match>
+                                    
+    <match>
+        <competition>Premiership</competition>
+        <venue>H</venue>
+        <opposition>Burnley</opposition>
+        <day>Sat</day>
+        <date>17/12</date>
+        <time>15:00</time>
+        <result>
+            <for>2</for>
+            <against>1</against>
+            <report>https://www.theguardian.com/football/2016/dec/18/tottenham-hotspur-burnley-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer>Alli</scorer>
+            <scorer>Rose</scorer>
+        </goals>
+    </match>
+                                    
+    <match>
+        <competition>Premiership</competition>
+        <venue>A</venue>
+        <opposition>Southampton</opposition>
+        <day>Mon</day>
+        <date>28/12</date>
+        <time>20:00</time>
+        <result>
+            <for>4</for>
+            <against>1</against>
+            <report>https://www.theguardian.com/football/2016/dec/28/southampton-tottenham-hotspur-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer detail="2">Alli</scorer>
+            <scorer>Kane</scorer>
+            <scorer>Son</scorer>
+        </goals>
+    </match>
+                                    
+    <match>
+        <competition>Premiership</competition>
+        <venue>A</venue>
+        <opposition>Watford</opposition>
+        <day>Sat</day>
+        <date>01/01</date>
+        <time>13:30</time>
+        <result>
+            <for>4</for>
+            <against>1</against>
+            <report>https://www.theguardian.com/football/2017/jan/01/watford-tottenham-hotspur-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer detail="2">Alli</scorer>
+            <scorer detail="2">Kane</scorer>
+        </goals>
+    </match>
+                                    
+    <match>
+        <competition>Premiership</competition>
+        <venue>H</venue>
+        <opposition>Chelsea</opposition>
+        <day>Mon</day>
+        <date>04/01</date>
+        <time>20:00</time>
+        <result>
+            <for>2</for>
+            <against>0</against>
+            <report>https://www.theguardian.com/football/2017/jan/04/tottenham-hotspur-chelsea-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer detail="2">Alli</scorer>
+        </goals>
+    </match>
+                                    
+    <match>
+        <competition>FAC</competition>
+        <venue>H</venue>
+        <opposition>Aston Villa</opposition>
+        <day>Sat</day>
+        <date>08/01</date>
+        <time>15:00</time>
+        <result>
+            <for>2</for>
+            <against>0</against>
+            <report>https://www.theguardian.com/football/2017/jan/08/tottenham-hotspur-aston-villa-fa-cup-match-report</report>
+        </result>
+        <goals>
+            <scorer>Davies</scorer>
+            <scorer>Son</scorer>
+        </goals>
+    </match>
+    
+    <match>
+        <competition>Premiership</competition>
+        <venue>H</venue>
+        <opposition>West Bromwich Albion</opposition>
+        <day>Sat</day>
+        <date>14/01</date>
+        <time>12:30</time>
+        <result>
+            <for>4</for>
+            <against>0</against>
+            <report>https://www.theguardian.com/football/2017/jan/14/tottenham-hotspur-west-bromwich-albion-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer detail="3">Kane</scorer>
+            <scorer detail="og">McCauley</scorer>
+        </goals>
+    </match>
+                                    
+    <match>
+        <competition>Premiership</competition>
+        <venue>A</venue>
+        <opposition>Manchester City</opposition>
+        <day>Sat</day>
+        <date>21/01</date>
+        <time>15:00</time>
+        <result>
+            <for>2</for>
+            <against>2</against>
+            <report>https://www.theguardian.com/football/2017/jan/21/manchester-city-tottenham-hotspur-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer>Alli</scorer>
+            <scorer>Son</scorer>
+        </goals>
+    </match>
+                                    
+    <match>
+        <competition>FAC</competition>
+        <venue>H</venue>
+        <opposition>Wycombe Wanderers</opposition>
+        <day>Sat</day>
+        <date>28/01</date>
+        <time>15:00</time>
+        <result>
+            <for>4</for>
+            <against>3</against>
+            <report>https://www.theguardian.com/football/2017/jan/28/tottenham-hotspur-wycombe-wanderers-fa-cup-match-report</report>
+        </result>
+        <goals>
+            <scorer detail="2">Son</scorer>
+            <scorer>Alli</scorer>
+            <scorer detail="p">Janssen</scorer>
+        </goals>
+    </match>
+                                    
+    <match>
+        <competition>Premiership</competition>
+        <venue>A</venue>
+        <opposition>Sunderland</opposition>
+        <day>Tue</day>
+        <date>31/01</date>
+        <time>19:45</time>
+        <result>
+            <for>0</for>
+            <against>0</against>
+            <report>https://www.theguardian.com/football/2017/jan/31/sunderland-tottenham-hotspur-premier-league-match-report</report>
+        </result>
+    </match>
+                                    
+                          	                    
+    <match>
+        <competition>Premiership</competition>
+        <venue>H</venue>
+        <opposition>Middlesbrough</opposition>
+        <day>Sat</day>
+        <date>04/02</date>
+        <time>15:00</time>
+        <result>
+            <for>1</for>
+            <against>0</against>
+            <report>https://www.theguardian.com/football/2017/feb/04/tottenham-hotspur-middlesbrough-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer detail="p">Kane</scorer>
+        </goals>
+    </match>
+                                    
+    <match>
+        <competition>Premiership</competition>
+        <venue>A</venue>
+        <opposition>Liverpool</opposition>
+        <day>Sat</day>
+        <date>11/02</date>
+        <time>17:30</time>
+        <result>
+            <for>0</for>
+            <against>2</against>
+            <report>https://www.theguardian.com/football/2017/feb/11/liverpool-tottenham-hotspur-premier-league-match-report</report>
+        </result>
+    </match>
+                                                                 
+    <match>
+        <competition>EL</competition>
+        <venue>A</venue>
+        <opposition>Gent</opposition>
+        <day>Thu</day>
+        <date>16/02</date>
+        <time>18:00</time>
+        <result>
+            <for>0</for>
+            <against>1</against>
+            <report>https://www.theguardian.com/football/2017/feb/16/gent-tottenham-hotspur-europa-league-match-report</report>
+        </result>
+    </match>
+                                    
+    <match>
+        <competition>FAC</competition>
+        <venue>A</venue>
+        <opposition>Fulham</opposition>
+        <day>Sun</day>
+        <date>19/03</date>
+        <time>14:00</time>
+        <result>
+            <for>3</for>
+            <against>0</against>
+            <report>https://www.theguardian.com/football/2017/feb/19/fulham-tottenham-hotspur-fa-cup-match-report</report>
+        </result>
+        <goals>
+            <scorer detail="3">Kane</scorer>
+        </goals>
+    </match>
+                                                                 
+    <match>
+        <competition>EL</competition>
+        <venue>A</venue>
+        <opposition>Gent</opposition>
+        <day>Thu</day>
+        <date>23/02</date>
+        <time>20:00</time>
+        <result>
+            <for>2</for>
+            <against>2</against>
+            <report>https://www.theguardian.com/football/2017/feb/23/tottenham-hotspur-gent-europa-league-match-report</report>
+        </result>
+        <goals>
+            <scorer>Eriksen</scorer>
+            <scorer>Wanyama</scorer>
+        </goals>
+    </match>
+       
+    <match>
+        <competition>Premiership</competition>
+        <venue>H</venue>
+        <opposition>Stoke City</opposition>
+        <day>Sun</day>
+        <date>26/02</date>
+        <time>13:30</time>
+        <result>
+            <for>4</for>
+            <against>0</against>
+            <report>https://www.theguardian.com/football/2017/feb/26/tottenham-hotspur-stoke-city-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer detail="3">Kane</scorer>
+            <scorer>Alli</scorer>
+        </goals>
+    </match>
+                          	                    
+    <match>
+        <competition>Premiership</competition>
+        <venue>H</venue>
+        <opposition>Everton</opposition>
+        <day>Sun</day>
+        <date>05/03</date>
+        <time>14:00</time>
+        <result>
+            <for>3</for>
+            <against>2</against>
+            <report>https://www.theguardian.com/football/2017/mar/05/tottenham-hotspur-everton-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer detail="2">Kane</scorer>
+            <scorer>Alli</scorer>
+        </goals>
+    </match>
+                                    
+    <match>
+        <competition>FAC</competition>
+        <venue>H</venue>
+        <opposition>Millwall</opposition>
+        <day>Sun</day>
+        <date>12/03</date>
+        <time>14:00</time>
+        <result>
+            <for>6</for>
+            <against>0</against>
+            <report>https://www.theguardian.com/football/2017/mar/12/tottenham-hotspur-millwall-fa-cup-match-report</report>
+        </result>
+        <goals>
+            <scorer>Eriksen</scorer>
+            <scorer detail="3">Son</scorer>
+            <scorer>Alli</scorer>
+            <scorer>Janssen</scorer>
+        </goals>
+    </match>
+                                     
+    <match>
+        <competition>Premiership</competition>
+        <venue>H</venue>
+        <opposition>Southampton</opposition>
+        <day>Sun</day>
+        <date>19/03</date>
+        <time>14:15</time>
+        <result>
+            <for>2</for>
+            <against>1</against>
+            <report>https://www.theguardian.com/football/2017/mar/19/tottenham-hotspur-southampton-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer>Eriksen</scorer>
+            <scorer detail="p">Alli</scorer>
+        </goals>
+    </match>
+                                    
+    <match>
+        <competition>Premiership</competition>
+        <venue>A</venue>
+        <opposition>Burnley</opposition>
+        <day>Sat</day>
+        <date>01/04</date>
+        <time>15:00</time>
+        <result>
+            <for>2</for>
+            <against>0</against>
+            <report>https://www.theguardian.com/football/2017/apr/01/burnley-tottenham-hotspur-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer>Dier</scorer>
+            <scorer>Son</scorer>
+        </goals>
+    </match>
+                                    
+    <match>
+        <competition>Premiership</competition>
+        <venue>A</venue>
+        <opposition>Swansea City</opposition>
+        <day>Wed</day>
+        <date>05/04</date>
+        <time>19:45</time>
+        <result>
+            <for>3</for>
+            <against>1</against>
+            <report>https://www.theguardian.com/football/2017/apr/05/swansea-city-tottenham-hotspur-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer>Alli</scorer>
+            <scorer>Son</scorer>
+            <scorer>Eriksen</scorer>
+        </goals>
+    </match>
+                                    
+    <match>
+        <competition>Premiership</competition>
+        <venue>H</venue>
+        <opposition>Watford</opposition>
+        <day>Sat</day>
+        <date>08/04</date>
+        <time>12:30</time>
+        <result>
+            <for>4</for>
+            <against>0</against>
+            <report>https://www.theguardian.com/football/2017/apr/08/tottenham-hotspur-watford-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer>Alli</scorer>
+            <scorer>Dier</scorer>
+            <scorer detail="2">Son</scorer>
+        </goals>
+    </match>
+                                    
+    <match>
+        <competition>Premiership</competition>
+        <venue>H</venue>
+        <opposition>Bournemouth</opposition>
+        <day>Sat</day>
+        <date>15/04</date>
+        <time>12:30</time>
+        <result>
+            <for>4</for>
+            <against>0</against>
+            <report>https://www.theguardian.com/football/2017/apr/15/tottenham-hotspur-bournemouth-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer>Dembele</scorer>
+            <scorer>Son</scorer>
+            <scorer>Kane</scorer>
+            <scorer>Janssen</scorer>
+        </goals>
+    </match>
+                                    
+    <match>
+        <competition>FAC</competition>
+        <venue>A</venue>
+        <opposition>Chelsea</opposition>
+        <day>Sat</day>
+        <date>22/04</date>
+        <time>17:30</time>
+        <result>
+            <for>2</for>
+            <against>4</against>
+            <report>https://www.theguardian.com/football/live/2017/apr/22/chelsea-v-tottenham-hotspur-fa-cup-semi-final-live</report>
+        </result>
+        <goals>
+            <scorer>Kane</scorer>
+            <scorer>Alli</scorer>
+        </goals>
+    </match>
+                                    
+    <match>
+        <competition>Premiership</competition>
+        <venue>A</venue>
+        <opposition>Crystal Palace</opposition>
+        <day>Wed</day>
+        <date>26/04</date>
+        <time>20:00</time>
+        <result>
+            <for>1</for>
+            <against>0</against>
+            <report>https://www.theguardian.com/football/2017/apr/26/crystal-palace-tottenham-hotspur-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer>Eriksen</scorer>
+        </goals>
+    </match>
+                                   
+    <match>
+        <competition>Premiership</competition>
+        <venue>H</venue>
+        <opposition>Arsenal</opposition>
+        <day>Sun</day>
+        <date>30/04</date>
+        <time>16:30</time>
+        <result>
+            <for>2</for>
+            <against>0</against>
+            <report>https://www.theguardian.com/football/2017/apr/30/tottenham-hotspur-arsenal-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer>Alli</scorer>
+            <scorer detail="p">Kane</scorer>
+        </goals>
+    </match>
+                          	                    
+    <match>
+        <competition>Premiership</competition>
+        <venue>A</venue>
+        <opposition>West Ham</opposition>
+        <day>Fri</day>
+        <date>05/05</date>
+        <time>20:00</time>
+        <result>
+            <for>0</for>
+            <against>1</against>
+            <report>https://www.theguardian.com/football/blog/2017/may/06/tottenham-hotspur-west-ham-united-london-derbies-premier-league</report>
+        </result>
+    </match>
+                                    
+    <match>
+        <competition>Premiership</competition>
+        <venue>H</venue>
+        <opposition>Manchester United</opposition>
+        <day>Sat</day>
+        <date>14/05</date>
+        <time>16:00</time>
+        <result>
+            <for>2</for>
+            <against>1</against>
+            <report>https://www.theguardian.com/football/2017/may/14/tottenham-hotspur-manchester-united-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer>Wanyama</scorer>
+            <scorer>Kane</scorer>
+        </goals>
+    </match>
+                                    
+    <match>
+        <competition>Premiership</competition>
+        <venue>A</venue>
+        <opposition>Leicester City</opposition>
+        <day>Thu</day>
+        <date>17/05</date>
+        <time>20:00</time>
+        <result>
+            <for>6</for>
+            <against>1</against>
+            <report>https://www.theguardian.com/football/2017/may/18/leicester-city-tottenham-hotspur-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer detail="4">Kane</scorer>
+            <scorer detail="2">Son</scorer>
+        </goals>
+    </match>
+                                    
+    <match>
+        <competition>Premiership</competition>
+        <venue>A</venue>
+        <opposition>Hull City</opposition>
+        <day>Sun</day>
+        <date>21/05</date>
+        <time>15:00</time>
+        <result>
+            <for>7</for>
+            <against>1</against>
+            <report>https://www.theguardian.com/football/2017/may/21/hull-city-tottenham-hotspur-premier-league-match-report</report>
+        </result>
+        <goals>
+            <scorer detail="3">Kane</scorer>
+            <scorer>Alli</scorer>
+            <scorer>Wanyama</scorer>
+            <scorer>Davies</scorer>
+            <scorer>Aderweireld</scorer>
+        </goals>
+    </match>
+</fixtures>

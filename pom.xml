@@ -9,7 +9,7 @@
   
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <fixtures.year>2015-2016</fixtures.year>
+    <fixtures.year>2016-2017</fixtures.year>
   </properties>
   
   <build>

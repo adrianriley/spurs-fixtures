@@ -75,11 +75,14 @@
 	<xsl:when test=". = 'COLC'">
 	<img alt="League Cup"  src="../images/capital_one_cup_logo.jpg"/>
 	</xsl:when>
+	<xsl:when test=". = 'EFLC'">
+	<img alt="League Cup"  src="../images/efl-cup.png"/>
+	</xsl:when>
 	<xsl:when test=". = 'UEFA'">
 	<img alt="UEFA Cup"  src="../images/uefa_cup_logo.gif"/>
 	</xsl:when>
 	<xsl:when test=". = 'CL'">
-	<img alt="Champions League"  src="../images/champions-league-21.gif"/>
+	<img alt="Champions League"  src="../images/champions-league.png"/>
 	</xsl:when>
 	<xsl:when test=". = 'EL'">
 	<img alt="Europa League"  src="../images/europa_league_logo.jpg"/>
